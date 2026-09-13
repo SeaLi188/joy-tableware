@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "JOY-GP-002",
+    "sourceItemNo": "JOY-GP-202001",
+    "originalName": "Abel Gold Rim Glasses",
+    "displayName": "Abel Gold Rim Glasses",
+    "name": "Abel Gold Rim Glasses",
+    "slug": "abel-gold-rim-glasses",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Rim finish variations"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim",
+      "White Rim",
+      "Black Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/abel-gold-rim-glasses/cover.webp",
+        "alt": "Abel Gold Rim Glasses cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/abel-gold-rim-glasses/detail-01.webp",
+        "alt": "Abel Gold Rim Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/abel-gold-rim-glasses/detail-02.webp",
+        "alt": "Abel Gold Rim Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/abel-gold-rim-glasses/detail-03.webp",
+        "alt": "Abel Gold Rim Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/abel-gold-rim-glasses/detail-04.webp",
+        "alt": "Abel Gold Rim Glasses detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 2
+    }
+  },
+  {
+    "id": "JOY-GP-003",
+    "sourceItemNo": "JOY-GP-202002",
+    "originalName": "Beaded Glass Plate",
+    "displayName": "Beaded Glass Plate",
+    "name": "Beaded Glass Plate",
+    "slug": "beaded-glass-plate",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Beaded rim",
+      "Four sizes available"
+    ],
+    "colors": [
+      "Rose Gold Rim",
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/beaded-glass-plate/cover.webp",
+        "alt": "Beaded Glass Plate cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/beaded-glass-plate/detail-01.webp",
+        "alt": "Beaded Glass Plate detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/beaded-glass-plate/detail-02.webp",
+        "alt": "Beaded Glass Plate detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/beaded-glass-plate/detail-03.webp",
+        "alt": "Beaded Glass Plate detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "JOY-GP-004",
+    "sourceItemNo": "JOY-GP-202003",
+    "originalName": "Glassical Embossed Series",
+    "displayName": "Glassical Embossed Series",
+    "name": "Glassical Embossed Series",
+    "slug": "glassical-embossed-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Embossed pattern"
+    ],
+    "colors": [],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/glassical-embossed-series/cover.webp",
+        "alt": "Glassical Embossed Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/glassical-embossed-series/detail-01.webp",
+        "alt": "Glassical Embossed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/glassical-embossed-series/detail-02.webp",
+        "alt": "Glassical Embossed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/glassical-embossed-series/detail-03.webp",
+        "alt": "Glassical Embossed Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "JOY-GP-005",
+    "sourceItemNo": "JOY-GP-202004",
+    "originalName": "Glassical Rim Series",
+    "displayName": "Glassical Rim Series",
+    "name": "Glassical Rim Series",
+    "slug": "glassical-rim-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Wide rim"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/glassical-rim-series/cover.webp",
+        "alt": "Glassical Rim Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/glassical-rim-series/detail-01.webp",
+        "alt": "Glassical Rim Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/glassical-rim-series/detail-02.webp",
+        "alt": "Glassical Rim Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "JOY-GP-006",
+    "sourceItemNo": "JOY-GP-202005",
+    "originalName": "Flower Circle Series",
+    "displayName": "Flower Circle Series",
+    "name": "Flower Circle Series",
+    "slug": "flower-circle-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Flower rim"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/flower-circle-series/cover.webp",
+        "alt": "Flower Circle Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/flower-circle-series/detail-01.webp",
+        "alt": "Flower Circle Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/flower-circle-series/detail-02.webp",
+        "alt": "Flower Circle Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "JOY-GP-007",
+    "sourceItemNo": "JOY-GP-202006",
+    "originalName": "Snow Glass Series",
+    "displayName": "Snow Glass Series",
+    "name": "Snow Glass Series",
+    "slug": "snow-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Snow-inspired design",
+      "Four sizes available"
+    ],
+    "colors": [
+      "Rose Gold",
+      "Silver",
+      "Gold"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/snow-glass-series/cover.webp",
+        "alt": "Snow Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/snow-glass-series/detail-01.webp",
+        "alt": "Snow Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/snow-glass-series/detail-02.webp",
+        "alt": "Snow Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/snow-glass-series/detail-03.webp",
+        "alt": "Snow Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "JOY-GP-008",
+    "sourceItemNo": "JOY-GP-202007",
+    "originalName": "Jagged Glass Series",
+    "displayName": "Jagged Glass Series",
+    "name": "Jagged Glass Series",
+    "slug": "jagged-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Jagged pattern",
+      "Four sizes available"
+    ],
+    "colors": [
+      "Rose Gold",
+      "Gold",
+      "Silver"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/jagged-glass-series/cover.webp",
+        "alt": "Jagged Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/jagged-glass-series/detail-01.webp",
+        "alt": "Jagged Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/jagged-glass-series/detail-02.webp",
+        "alt": "Jagged Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "JOY-GP-009",
+    "sourceItemNo": "JOY-GP-202008",
+    "originalName": "Ella Glass Series",
+    "displayName": "Ella Glass Series",
+    "name": "Ella Glass Series",
+    "slug": "ella-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Vintage style"
+    ],
+    "colors": [
+      "Silver",
+      "Gold",
+      "Rose Gold"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/ella-glass-series/cover.webp",
+        "alt": "Ella Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/ella-glass-series/detail-01.webp",
+        "alt": "Ella Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/ella-glass-series/detail-02.webp",
+        "alt": "Ella Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "JOY-GP-010",
+    "sourceItemNo": "JOY-GP-202009",
+    "originalName": "Harper Glass Series",
+    "displayName": "Harper Glass Series",
+    "name": "Harper Glass Series",
+    "slug": "harper-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Modern style"
+    ],
+    "colors": [
+      "Rose Gold",
+      "Gold",
+      "Silver"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/harper-glass-series/cover.webp",
+        "alt": "Harper Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/harper-glass-series/detail-01.webp",
+        "alt": "Harper Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/harper-glass-series/detail-02.webp",
+        "alt": "Harper Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "JOY-GP-011",
+    "sourceItemNo": "JOY-GP-202010",
+    "originalName": "Wide Rim Glass Series",
+    "displayName": "Wide Rim Glass Series",
+    "name": "Wide Rim Glass Series",
+    "slug": "wide-rim-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Wide rim",
+      "Modern style"
+    ],
+    "colors": [
+      "Silver",
+      "Gold",
+      "Black"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      },
+      {
+        "name": "Dinner Plate",
+        "value": "10 inch"
+      },
+      {
+        "name": "Dessert Plate",
+        "value": "8 inch"
+      },
+      {
+        "name": "Bread Plate",
+        "value": "6 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/wide-rim-glass-series/cover.webp",
+        "alt": "Wide Rim Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/wide-rim-glass-series/detail-01.webp",
+        "alt": "Wide Rim Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/wide-rim-glass-series/detail-02.webp",
+        "alt": "Wide Rim Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "JOY-GP-012",
+    "sourceItemNo": "JOY-GP-202011",
+    "originalName": "Wind Glass Series",
+    "displayName": "Wind Glass Series",
+    "name": "Wind Glass Series",
+    "slug": "wind-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Wind-inspired design"
+    ],
+    "colors": [
+      "Silver",
+      "Gold",
+      "Rose Gold"
+    ],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/wind-glass-series/cover.webp",
+        "alt": "Wind Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/wind-glass-series/detail-01.webp",
+        "alt": "Wind Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/wind-glass-series/detail-02.webp",
+        "alt": "Wind Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "JOY-GP-013",
+    "sourceItemNo": "JOY-GP-202012",
+    "originalName": "Cloud Glass Series",
+    "displayName": "Cloud Glass Series",
+    "name": "Cloud Glass Series",
+    "slug": "cloud-glass-series",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Cloud-inspired design"
+    ],
+    "colors": [],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/cloud-glass-series/cover.webp",
+        "alt": "Cloud Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/cloud-glass-series/detail-01.webp",
+        "alt": "Cloud Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloud-glass-series/detail-02.webp",
+        "alt": "Cloud Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloud-glass-series/detail-03.webp",
+        "alt": "Cloud Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloud-glass-series/detail-04.webp",
+        "alt": "Cloud Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "JOY-GP-014",
+    "sourceItemNo": "JOY-GP-202013",
+    "originalName": "Cloth pattern Glass",
+    "displayName": "Cloth Pattern Glass",
+    "name": "Cloth Pattern Glass",
+    "slug": "cloth-pattern-glass",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Cloth pattern"
+    ],
+    "colors": [],
+    "sizes": [
+      {
+        "name": "Charger Plate",
+        "value": "13 inch"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/cloth-pattern-glass/cover.webp",
+        "alt": "Cloth Pattern Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/cloth-pattern-glass/detail-01.webp",
+        "alt": "Cloth Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloth-pattern-glass/detail-02.webp",
+        "alt": "Cloth Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloth-pattern-glass/detail-03.webp",
+        "alt": "Cloth Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/cloth-pattern-glass/detail-04.webp",
+        "alt": "Cloth Pattern Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "JOY-GP-015",
+    "sourceItemNo": "JOY-GP-202014",
+    "originalName": "Boom pattern Glass",
+    "displayName": "Boom Pattern Glass",
+    "name": "Boom Pattern Glass",
+    "slug": "boom-pattern-glass",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Boom pattern"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/boom-pattern-glass/cover.webp",
+        "alt": "Boom Pattern Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/boom-pattern-glass/detail-01.webp",
+        "alt": "Boom Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/boom-pattern-glass/detail-02.webp",
+        "alt": "Boom Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/boom-pattern-glass/detail-03.webp",
+        "alt": "Boom Pattern Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "JOY-GP-016",
+    "sourceItemNo": "JOY-GP-202015",
+    "originalName": "Cicle pattern Glass",
+    "displayName": "Circle Pattern Glass",
+    "name": "Circle Pattern Glass",
+    "slug": "circle-pattern-glass",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Circle pattern"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/circle-pattern-glass/cover.webp",
+        "alt": "Circle Pattern Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/circle-pattern-glass/detail-01.webp",
+        "alt": "Circle Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/circle-pattern-glass/detail-02.webp",
+        "alt": "Circle Pattern Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "JOY-GP-017",
+    "sourceItemNo": "JOY-GP-202016",
+    "originalName": "Geometry pattern Glass",
+    "displayName": "Geometry Pattern Glass",
+    "name": "Geometry Pattern Glass",
+    "slug": "geometry-pattern-glass",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Geometry pattern"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/geometry-pattern-glass/cover.webp",
+        "alt": "Geometry Pattern Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/geometry-pattern-glass/detail-01.webp",
+        "alt": "Geometry Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/geometry-pattern-glass/detail-02.webp",
+        "alt": "Geometry Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/geometry-pattern-glass/detail-03.webp",
+        "alt": "Geometry Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/geometry-pattern-glass/detail-04.webp",
+        "alt": "Geometry Pattern Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "JOY-GP-018",
+    "sourceItemNo": "JOY-GP-202017",
+    "originalName": "Flower pattern Glass",
+    "displayName": "Flower Pattern Glass",
+    "name": "Flower Pattern Glass",
+    "slug": "flower-pattern-glass",
+    "category": "Glass Plate",
+    "categorySlug": "glass-plate",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Flower pattern"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Accept OEM color."
+    },
+    "images": [
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/cover.webp",
+        "alt": "Flower Pattern Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/detail-01.webp",
+        "alt": "Flower Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/detail-02.webp",
+        "alt": "Flower Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/detail-03.webp",
+        "alt": "Flower Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/detail-04.webp",
+        "alt": "Flower Pattern Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-plate/flower-pattern-glass/detail-05.webp",
+        "alt": "Flower Pattern Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-plate.pdf",
+      "page": 18
+    }
+  }
+]

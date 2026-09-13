@@ -1,0 +1,3578 @@
+[
+  {
+    "id": "JOY-GC-003",
+    "sourceItemNo": "JOY-GC-2501",
+    "originalName": "Nightfall",
+    "displayName": "Nightfall",
+    "name": "Nightfall",
+    "slug": "nightfall",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/nightfall/cover.webp",
+        "alt": "Nightfall cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/nightfall/detail-01.webp",
+        "alt": "Nightfall detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/nightfall/detail-02.webp",
+        "alt": "Nightfall detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/nightfall/detail-03.webp",
+        "alt": "Nightfall detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/nightfall/detail-04.webp",
+        "alt": "Nightfall detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/nightfall/detail-05.webp",
+        "alt": "Nightfall detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 2
+    }
+  },
+  {
+    "id": "JOY-GC-004",
+    "sourceItemNo": "JOY-GC-2502",
+    "originalName": "Moonlight Glaze",
+    "displayName": "Moonlight Glaze",
+    "name": "Moonlight Glaze",
+    "slug": "moonlight-glaze",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "Champagne Glass",
+      "Martini Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/moonlight-glaze/cover.webp",
+        "alt": "Moonlight Glaze cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/moonlight-glaze/detail-01.webp",
+        "alt": "Moonlight Glaze detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/moonlight-glaze/detail-02.webp",
+        "alt": "Moonlight Glaze detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/moonlight-glaze/detail-03.webp",
+        "alt": "Moonlight Glaze detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "JOY-GC-005",
+    "sourceItemNo": "JOY-GC-2503",
+    "originalName": "Pearl Luster",
+    "displayName": "Pearl Luster",
+    "name": "Pearl Luster",
+    "slug": "pearl-luster",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/pearl-luster/cover.webp",
+        "alt": "Pearl Luster cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/pearl-luster/detail-01.webp",
+        "alt": "Pearl Luster detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/pearl-luster/detail-02.webp",
+        "alt": "Pearl Luster detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/pearl-luster/detail-03.webp",
+        "alt": "Pearl Luster detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "JOY-GC-006",
+    "sourceItemNo": "JOY-GC-2504",
+    "originalName": "Emerald Dream",
+    "displayName": "Emerald Dream",
+    "name": "Emerald Dream",
+    "slug": "emerald-dream",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available",
+      "Stripe decoration"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color",
+        "Number of Stripes"
+      ],
+      "notes": "Solid color and number of stripes can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/emerald-dream/cover.webp",
+        "alt": "Emerald Dream cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/emerald-dream/detail-01.webp",
+        "alt": "Emerald Dream detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "JOY-GC-007",
+    "sourceItemNo": "JOY-GC-2505",
+    "originalName": "Midnight Phantom",
+    "displayName": "Midnight Phantom",
+    "name": "Midnight Phantom",
+    "slug": "midnight-phantom",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/midnight-phantom/cover.webp",
+        "alt": "Midnight Phantom cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/midnight-phantom/detail-01.webp",
+        "alt": "Midnight Phantom detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/midnight-phantom/detail-02.webp",
+        "alt": "Midnight Phantom detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/midnight-phantom/detail-03.webp",
+        "alt": "Midnight Phantom detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/midnight-phantom/detail-04.webp",
+        "alt": "Midnight Phantom detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/midnight-phantom/detail-05.webp",
+        "alt": "Midnight Phantom detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "JOY-GC-008",
+    "sourceItemNo": "JOY-GC-2506",
+    "originalName": "Crystal Dream",
+    "displayName": "Crystal Dream",
+    "name": "Crystal Dream",
+    "slug": "crystal-dream",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/crystal-dream/cover.webp",
+        "alt": "Crystal Dream cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/crystal-dream/detail-01.webp",
+        "alt": "Crystal Dream detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-dream/detail-02.webp",
+        "alt": "Crystal Dream detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-dream/detail-03.webp",
+        "alt": "Crystal Dream detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-dream/detail-04.webp",
+        "alt": "Crystal Dream detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "JOY-GC-009",
+    "sourceItemNo": "JOY-GC-2507",
+    "originalName": "Swan Velvet Night",
+    "displayName": "Swan Velvet Night",
+    "name": "Swan Velvet Night",
+    "slug": "swan-velvet-night",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/swan-velvet-night/cover.webp",
+        "alt": "Swan Velvet Night cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/swan-velvet-night/detail-01.webp",
+        "alt": "Swan Velvet Night detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/swan-velvet-night/detail-02.webp",
+        "alt": "Swan Velvet Night detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/swan-velvet-night/detail-03.webp",
+        "alt": "Swan Velvet Night detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "JOY-GC-010",
+    "sourceItemNo": "JOY-GC-2508",
+    "originalName": "Amber Glow",
+    "displayName": "Amber Glow",
+    "name": "Amber Glow",
+    "slug": "amber-glow",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/amber-glow/cover.webp",
+        "alt": "Amber Glow cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/amber-glow/detail-01.webp",
+        "alt": "Amber Glow detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/amber-glow/detail-02.webp",
+        "alt": "Amber Glow detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/amber-glow/detail-03.webp",
+        "alt": "Amber Glow detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/amber-glow/detail-04.webp",
+        "alt": "Amber Glow detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/amber-glow/detail-05.webp",
+        "alt": "Amber Glow detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "JOY-GC-011",
+    "sourceItemNo": "JOY-GC-2509",
+    "originalName": "Golden Sunshine",
+    "displayName": "Golden Sunshine",
+    "name": "Golden Sunshine",
+    "slug": "golden-sunshine",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/golden-sunshine/cover.webp",
+        "alt": "Golden Sunshine cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/golden-sunshine/detail-01.webp",
+        "alt": "Golden Sunshine detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/golden-sunshine/detail-02.webp",
+        "alt": "Golden Sunshine detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/golden-sunshine/detail-03.webp",
+        "alt": "Golden Sunshine detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "JOY-GC-012",
+    "sourceItemNo": "JOY-GC-2510",
+    "originalName": "Eye of the Wave",
+    "displayName": "Eye of the Wave",
+    "name": "Eye of the Wave",
+    "slug": "eye-of-the-wave",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Martini Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/eye-of-the-wave/cover.webp",
+        "alt": "Eye of the Wave cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/eye-of-the-wave/detail-01.webp",
+        "alt": "Eye of the Wave detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/eye-of-the-wave/detail-02.webp",
+        "alt": "Eye of the Wave detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/eye-of-the-wave/detail-03.webp",
+        "alt": "Eye of the Wave detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/eye-of-the-wave/detail-04.webp",
+        "alt": "Eye of the Wave detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "JOY-GC-013",
+    "sourceItemNo": "JOY-GC-2511",
+    "originalName": "Rippling Waves",
+    "displayName": "Rippling Waves",
+    "name": "Rippling Waves",
+    "slug": "rippling-waves",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/rippling-waves/cover.webp",
+        "alt": "Rippling Waves cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/rippling-waves/detail-01.webp",
+        "alt": "Rippling Waves detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/rippling-waves/detail-02.webp",
+        "alt": "Rippling Waves detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/rippling-waves/detail-03.webp",
+        "alt": "Rippling Waves detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/rippling-waves/detail-04.webp",
+        "alt": "Rippling Waves detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/rippling-waves/detail-05.webp",
+        "alt": "Rippling Waves detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "JOY-GC-014",
+    "sourceItemNo": "JOY-GC-2512",
+    "originalName": "Morning Kiss",
+    "displayName": "Morning Kiss",
+    "name": "Morning Kiss",
+    "slug": "morning-kiss",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/morning-kiss/cover.webp",
+        "alt": "Morning Kiss cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/morning-kiss/detail-01.webp",
+        "alt": "Morning Kiss detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/morning-kiss/detail-02.webp",
+        "alt": "Morning Kiss detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/morning-kiss/detail-03.webp",
+        "alt": "Morning Kiss detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/morning-kiss/detail-04.webp",
+        "alt": "Morning Kiss detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "JOY-GC-015",
+    "sourceItemNo": "JOY-GC-2513",
+    "originalName": "Purple Haze Fairy",
+    "displayName": "Purple Haze Fairy",
+    "name": "Purple Haze Fairy",
+    "slug": "purple-haze-fairy",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/purple-haze-fairy/cover.webp",
+        "alt": "Purple Haze Fairy cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/purple-haze-fairy/detail-01.webp",
+        "alt": "Purple Haze Fairy detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/purple-haze-fairy/detail-02.webp",
+        "alt": "Purple Haze Fairy detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/purple-haze-fairy/detail-03.webp",
+        "alt": "Purple Haze Fairy detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/purple-haze-fairy/detail-04.webp",
+        "alt": "Purple Haze Fairy detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "JOY-GC-016",
+    "sourceItemNo": "JOY-GC-2514",
+    "originalName": "Emerald Lake",
+    "displayName": "Emerald Lake",
+    "name": "Emerald Lake",
+    "slug": "emerald-lake",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/emerald-lake/cover.webp",
+        "alt": "Emerald Lake cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/emerald-lake/detail-01.webp",
+        "alt": "Emerald Lake detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/emerald-lake/detail-02.webp",
+        "alt": "Emerald Lake detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/emerald-lake/detail-03.webp",
+        "alt": "Emerald Lake detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/emerald-lake/detail-04.webp",
+        "alt": "Emerald Lake detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/emerald-lake/detail-05.webp",
+        "alt": "Emerald Lake detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "JOY-GC-017",
+    "sourceItemNo": "JOY-GC-2515",
+    "originalName": "Starry Night",
+    "displayName": "Starry Night",
+    "name": "Starry Night",
+    "slug": "starry-night",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Water Glass",
+      "Red Wine Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/starry-night/cover.webp",
+        "alt": "Starry Night cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/starry-night/detail-01.webp",
+        "alt": "Starry Night detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/starry-night/detail-02.webp",
+        "alt": "Starry Night detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "JOY-GC-018",
+    "sourceItemNo": "JOY-GC-2516",
+    "originalName": "Abyssal Enigma",
+    "displayName": "Abyssal Enigma",
+    "name": "Abyssal Enigma",
+    "slug": "abyssal-enigma",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Champagne Glass",
+      "Martini Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/abyssal-enigma/cover.webp",
+        "alt": "Abyssal Enigma cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/abyssal-enigma/detail-01.webp",
+        "alt": "Abyssal Enigma detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/abyssal-enigma/detail-02.webp",
+        "alt": "Abyssal Enigma detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/abyssal-enigma/detail-03.webp",
+        "alt": "Abyssal Enigma detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "JOY-GC-019",
+    "sourceItemNo": "JOY-GC-2517",
+    "originalName": "Starfish Wish",
+    "displayName": "Starfish Wish",
+    "name": "Starfish Wish",
+    "slug": "starfish-wish",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Solid Color"
+      ],
+      "notes": "Solid color can be customized."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/starfish-wish/cover.webp",
+        "alt": "Starfish Wish cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/starfish-wish/detail-01.webp",
+        "alt": "Starfish Wish detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/starfish-wish/detail-02.webp",
+        "alt": "Starfish Wish detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/starfish-wish/detail-03.webp",
+        "alt": "Starfish Wish detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/starfish-wish/detail-04.webp",
+        "alt": "Starfish Wish detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/starfish-wish/detail-05.webp",
+        "alt": "Starfish Wish detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 18
+    }
+  },
+  {
+    "id": "JOY-GC-020",
+    "sourceItemNo": "JOY-GC-20230801",
+    "originalName": "Bloom Glass Series",
+    "displayName": "Bloom Glass Series",
+    "name": "Bloom Glass Series",
+    "slug": "bloom-glass-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/bloom-glass-series/cover.webp",
+        "alt": "Bloom Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-01.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-02.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-03.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-04.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-05.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/bloom-glass-series/detail-06.webp",
+        "alt": "Bloom Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 19
+    }
+  },
+  {
+    "id": "JOY-GC-021",
+    "sourceItemNo": "JOY-GC-20230802",
+    "originalName": "Riverside Glass",
+    "displayName": "Riverside Glass",
+    "name": "Riverside Glass",
+    "slug": "riverside-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/riverside-glass/cover.webp",
+        "alt": "Riverside Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/riverside-glass/detail-01.webp",
+        "alt": "Riverside Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/riverside-glass/detail-02.webp",
+        "alt": "Riverside Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/riverside-glass/detail-03.webp",
+        "alt": "Riverside Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/riverside-glass/detail-04.webp",
+        "alt": "Riverside Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/riverside-glass/detail-05.webp",
+        "alt": "Riverside Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 20
+    }
+  },
+  {
+    "id": "JOY-GC-022",
+    "sourceItemNo": "JOY-GC-20230803",
+    "originalName": "Colorful Ribbed Series",
+    "displayName": "Colorful Ribbed Series",
+    "name": "Colorful Ribbed Series",
+    "slug": "colorful-ribbed-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Ribbed design",
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/cover.webp",
+        "alt": "Colorful Ribbed Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-01.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-02.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-03.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-04.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-05.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-06.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-07.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-08.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-09.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-10.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-11.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/colorful-ribbed-series/detail-12.webp",
+        "alt": "Colorful Ribbed Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 21
+    }
+  },
+  {
+    "id": "JOY-GC-023",
+    "sourceItemNo": "JOY-GC-20230804",
+    "originalName": "Aurora Glass",
+    "displayName": "Aurora Glass",
+    "name": "Aurora Glass",
+    "slug": "aurora-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Martini Glass",
+      "Red Wine Glass",
+      "Coupe Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/aurora-glass/cover.webp",
+        "alt": "Aurora Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/aurora-glass/detail-01.webp",
+        "alt": "Aurora Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/aurora-glass/detail-02.webp",
+        "alt": "Aurora Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/aurora-glass/detail-03.webp",
+        "alt": "Aurora Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 22
+    }
+  },
+  {
+    "id": "JOY-GC-024",
+    "sourceItemNo": "JOY-GC-20230805",
+    "originalName": "Engraving Leaves Glass",
+    "displayName": "Engraving Leaves Glass",
+    "name": "Engraving Leaves Glass",
+    "slug": "engraving-leaves-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Engraved leaf design",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "High Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/engraving-leaves-glass/cover.webp",
+        "alt": "Engraving Leaves Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/engraving-leaves-glass/detail-01.webp",
+        "alt": "Engraving Leaves Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-leaves-glass/detail-02.webp",
+        "alt": "Engraving Leaves Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-leaves-glass/detail-03.webp",
+        "alt": "Engraving Leaves Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-leaves-glass/detail-04.webp",
+        "alt": "Engraving Leaves Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 23
+    }
+  },
+  {
+    "id": "JOY-GC-025",
+    "sourceItemNo": "JOY-GC-20230806",
+    "originalName": "Engraving Flowers Glass",
+    "displayName": "Engraving Flowers Glass",
+    "name": "Engraving Flowers Glass",
+    "slug": "engraving-flowers-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Engraved flower design",
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/engraving-flowers-glass/cover.webp",
+        "alt": "Engraving Flowers Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/engraving-flowers-glass/detail-01.webp",
+        "alt": "Engraving Flowers Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-flowers-glass/detail-02.webp",
+        "alt": "Engraving Flowers Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-flowers-glass/detail-03.webp",
+        "alt": "Engraving Flowers Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/engraving-flowers-glass/detail-04.webp",
+        "alt": "Engraving Flowers Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 24
+    }
+  },
+  {
+    "id": "JOY-GC-026",
+    "sourceItemNo": "JOY-GC-20230807",
+    "originalName": "Mixed Glass",
+    "displayName": "Mixed Glass",
+    "name": "Mixed Glass",
+    "slug": "mixed-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/mixed-glass/cover.webp",
+        "alt": "Mixed Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/mixed-glass/detail-01.webp",
+        "alt": "Mixed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mixed-glass/detail-02.webp",
+        "alt": "Mixed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mixed-glass/detail-03.webp",
+        "alt": "Mixed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mixed-glass/detail-04.webp",
+        "alt": "Mixed Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 25
+    }
+  },
+  {
+    "id": "JOY-GC-027",
+    "sourceItemNo": "JOY-GC-20230808",
+    "originalName": "",
+    "displayName": "Glass Collection JOY-GC-20230808",
+    "name": "Glass Collection JOY-GC-20230808",
+    "slug": "catalogue-item-joy-gc-20230808",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/cover.webp",
+        "alt": "JOY-GC-20230808 cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-01.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-02.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-03.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-04.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-05.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-06.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-07.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-08.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-09.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-10.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-11.webp",
+        "alt": "JOY-GC-20230808 detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 26
+    }
+  },
+  {
+    "id": "JOY-GC-028",
+    "sourceItemNo": "JOY-GC-20230809",
+    "originalName": "",
+    "displayName": "Glass Collection JOY-GC-20230809",
+    "name": "Glass Collection JOY-GC-20230809",
+    "slug": "catalogue-item-joy-gc-20230809",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/cover.webp",
+        "alt": "JOY-GC-20230809 cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-01.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-02.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-03.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-04.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-05.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-06.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-07.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-08.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-09.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-10.webp",
+        "alt": "JOY-GC-20230809 detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "JOY-GC-029",
+    "sourceItemNo": "JOY-GC-20230810",
+    "originalName": "",
+    "displayName": "Glass Collection JOY-GC-20230810",
+    "name": "Glass Collection JOY-GC-20230810",
+    "slug": "catalogue-item-joy-gc-20230810",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/cover.webp",
+        "alt": "JOY-GC-20230810 cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-01.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-02.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-03.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-04.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-05.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-06.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-07.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-08.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-09.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-10.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-11.webp",
+        "alt": "JOY-GC-20230810 detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 28
+    }
+  },
+  {
+    "id": "JOY-GC-030",
+    "sourceItemNo": "JOY-GC-20230811",
+    "originalName": "",
+    "displayName": "Glass Collection JOY-GC-20230811",
+    "name": "Glass Collection JOY-GC-20230811",
+    "slug": "catalogue-item-joy-gc-20230811",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/cover.webp",
+        "alt": "JOY-GC-20230811 cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-01.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-02.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-03.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-04.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-05.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-06.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-07.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-08.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-09.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-10.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-11.webp",
+        "alt": "JOY-GC-20230811 detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 29
+    }
+  },
+  {
+    "id": "JOY-GC-031",
+    "sourceItemNo": "JOY-GC-202301",
+    "originalName": "Mary Glass Series",
+    "displayName": "Mary Glass Series",
+    "name": "Mary Glass Series",
+    "slug": "mary-glass-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/mary-glass-series/cover.webp",
+        "alt": "Mary Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-01.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-02.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-03.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-04.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-05.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mary-glass-series/detail-06.webp",
+        "alt": "Mary Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 30
+    }
+  },
+  {
+    "id": "JOY-GC-032",
+    "sourceItemNo": "JOY-GC-202302",
+    "originalName": "Ribbed Glass",
+    "displayName": "Ribbed Glass",
+    "name": "Ribbed Glass",
+    "slug": "ribbed-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Ribbed design",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Water Bottle",
+      "White Wine Glass",
+      "Martini Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/ribbed-glass/cover.webp",
+        "alt": "Ribbed Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/ribbed-glass/detail-01.webp",
+        "alt": "Ribbed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ribbed-glass/detail-02.webp",
+        "alt": "Ribbed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ribbed-glass/detail-03.webp",
+        "alt": "Ribbed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ribbed-glass/detail-04.webp",
+        "alt": "Ribbed Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ribbed-glass/detail-05.webp",
+        "alt": "Ribbed Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 31
+    }
+  },
+  {
+    "id": "JOY-GC-033",
+    "sourceItemNo": "JOY-GC-202303",
+    "originalName": "Thread Glass",
+    "displayName": "Thread Glass",
+    "name": "Thread Glass",
+    "slug": "thread-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Thread design",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/thread-glass/cover.webp",
+        "alt": "Thread Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/thread-glass/detail-01.webp",
+        "alt": "Thread Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/thread-glass/detail-02.webp",
+        "alt": "Thread Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/thread-glass/detail-03.webp",
+        "alt": "Thread Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/thread-glass/detail-04.webp",
+        "alt": "Thread Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 32
+    }
+  },
+  {
+    "id": "JOY-GC-034",
+    "sourceItemNo": "JOY-GC-202305",
+    "originalName": "Fishtail Glass",
+    "displayName": "Fishtail Glass",
+    "name": "Fishtail Glass",
+    "slug": "fishtail-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Fishtail design",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/fishtail-glass/cover.webp",
+        "alt": "Fishtail Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/fishtail-glass/detail-01.webp",
+        "alt": "Fishtail Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/fishtail-glass/detail-02.webp",
+        "alt": "Fishtail Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/fishtail-glass/detail-03.webp",
+        "alt": "Fishtail Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/fishtail-glass/detail-04.webp",
+        "alt": "Fishtail Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 33
+    }
+  },
+  {
+    "id": "JOY-GC-035",
+    "sourceItemNo": "JOY-GC-202305",
+    "originalName": "Pleats Glass",
+    "displayName": "Pleats Glass",
+    "name": "Pleats Glass",
+    "slug": "pleats-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Pleated design",
+      "Three sizes stated"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "High Water Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/pleats-glass/cover.webp",
+        "alt": "Pleats Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/pleats-glass/detail-01.webp",
+        "alt": "Pleats Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/pleats-glass/detail-02.webp",
+        "alt": "Pleats Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/pleats-glass/detail-03.webp",
+        "alt": "Pleats Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/pleats-glass/detail-04.webp",
+        "alt": "Pleats Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 34
+    }
+  },
+  {
+    "id": "JOY-GC-036",
+    "sourceItemNo": "JOY-GC-202306",
+    "originalName": "Crystal Yuki Glass",
+    "displayName": "Crystal Yuki Glass",
+    "name": "Crystal Yuki Glass",
+    "slug": "crystal-yuki-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Crystal style",
+      "Five sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/cover.webp",
+        "alt": "Crystal Yuki Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/detail-01.webp",
+        "alt": "Crystal Yuki Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/detail-02.webp",
+        "alt": "Crystal Yuki Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/detail-03.webp",
+        "alt": "Crystal Yuki Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/detail-04.webp",
+        "alt": "Crystal Yuki Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-yuki-glass/detail-05.webp",
+        "alt": "Crystal Yuki Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 35
+    }
+  },
+  {
+    "id": "JOY-GC-037",
+    "sourceItemNo": "JOY-GC-202307",
+    "originalName": "Crystal Jim Glass",
+    "displayName": "Crystal Jim Glass",
+    "name": "Crystal Jim Glass",
+    "slug": "crystal-jim-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Crystal style",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "Champagne Glass",
+      "High Water Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/crystal-jim-glass/cover.webp",
+        "alt": "Crystal Jim Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/crystal-jim-glass/detail-01.webp",
+        "alt": "Crystal Jim Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-jim-glass/detail-02.webp",
+        "alt": "Crystal Jim Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-jim-glass/detail-03.webp",
+        "alt": "Crystal Jim Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/crystal-jim-glass/detail-04.webp",
+        "alt": "Crystal Jim Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 36
+    }
+  },
+  {
+    "id": "JOY-GC-038",
+    "sourceItemNo": "JOY-GC-202308",
+    "originalName": "Hepburn Glass",
+    "displayName": "Hepburn Glass",
+    "name": "Hepburn Glass",
+    "slug": "hepburn-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Champagne Glass",
+      "White Wine Glass",
+      "Red Wine Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/hepburn-glass/cover.webp",
+        "alt": "Hepburn Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/hepburn-glass/detail-01.webp",
+        "alt": "Hepburn Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hepburn-glass/detail-02.webp",
+        "alt": "Hepburn Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hepburn-glass/detail-03.webp",
+        "alt": "Hepburn Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 37
+    }
+  },
+  {
+    "id": "JOY-GC-039",
+    "sourceItemNo": "JOY-GC-202309",
+    "originalName": "Tulip Glass",
+    "displayName": "Tulip Glass",
+    "name": "Tulip Glass",
+    "slug": "tulip-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/tulip-glass/cover.webp",
+        "alt": "Tulip Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/tulip-glass/detail-01.webp",
+        "alt": "Tulip Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/tulip-glass/detail-02.webp",
+        "alt": "Tulip Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/tulip-glass/detail-03.webp",
+        "alt": "Tulip Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/tulip-glass/detail-04.webp",
+        "alt": "Tulip Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 38
+    }
+  },
+  {
+    "id": "JOY-GC-040",
+    "sourceItemNo": "JOY-GC-202310",
+    "originalName": "Horn Glass",
+    "displayName": "Horn Glass",
+    "name": "Horn Glass",
+    "slug": "horn-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Champagne Glass",
+      "White Wine Glass",
+      "Red Wine Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/horn-glass/cover.webp",
+        "alt": "Horn Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/horn-glass/detail-01.webp",
+        "alt": "Horn Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/horn-glass/detail-02.webp",
+        "alt": "Horn Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/horn-glass/detail-03.webp",
+        "alt": "Horn Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 39
+    }
+  },
+  {
+    "id": "JOY-GC-041",
+    "sourceItemNo": "JOY-GC-202311",
+    "originalName": "Kongling Series",
+    "displayName": "Kongling Series",
+    "name": "Kongling Series",
+    "slug": "kongling-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/kongling-series/cover.webp",
+        "alt": "Kongling Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-01.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-02.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-03.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-04.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-05.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-06.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/kongling-series/detail-07.webp",
+        "alt": "Kongling Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 40
+    }
+  },
+  {
+    "id": "JOY-GC-042",
+    "sourceItemNo": "JOY-G-202001",
+    "originalName": "Bella Gold Rim Glasses",
+    "displayName": "Bella Gold Rim Glasses",
+    "name": "Bella Gold Rim Glasses",
+    "slug": "bella-gold-rim-glasses",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Gold rim",
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "OEM color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/bella-gold-rim-glasses/cover.webp",
+        "alt": "Bella Gold Rim Glasses cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/bella-gold-rim-glasses/detail-01.webp",
+        "alt": "Bella Gold Rim Glasses detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 41
+    }
+  },
+  {
+    "id": "JOY-GC-043",
+    "sourceItemNo": "JOY-G-202002",
+    "originalName": "Graceful Glass",
+    "displayName": "Graceful Glass",
+    "name": "Graceful Glass",
+    "slug": "graceful-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "OEM color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/graceful-glass/cover.webp",
+        "alt": "Graceful Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/graceful-glass/detail-01.webp",
+        "alt": "Graceful Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/graceful-glass/detail-02.webp",
+        "alt": "Graceful Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/graceful-glass/detail-03.webp",
+        "alt": "Graceful Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/graceful-glass/detail-04.webp",
+        "alt": "Graceful Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 42
+    }
+  },
+  {
+    "id": "JOY-GC-044",
+    "sourceItemNo": "JOY-G-202004",
+    "originalName": "Anne Glass Series",
+    "displayName": "Anne Glass Series",
+    "name": "Anne Glass Series",
+    "slug": "anne-glass-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [],
+    "glassTypes": [],
+    "colors": [
+      "Clear",
+      "Smoke",
+      "Brown",
+      "Pink"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/anne-glass-series/cover.webp",
+        "alt": "Anne Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/anne-glass-series/detail-01.webp",
+        "alt": "Anne Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/anne-glass-series/detail-02.webp",
+        "alt": "Anne Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/anne-glass-series/detail-03.webp",
+        "alt": "Anne Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/anne-glass-series/detail-04.webp",
+        "alt": "Anne Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 43
+    }
+  },
+  {
+    "id": "JOY-GC-045",
+    "sourceItemNo": "JOY-G-202005",
+    "originalName": "Ella Glass",
+    "displayName": "Ella Glass",
+    "name": "Ella Glass",
+    "slug": "ella-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Three sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/ella-glass/cover.webp",
+        "alt": "Ella Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/ella-glass/detail-01.webp",
+        "alt": "Ella Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ella-glass/detail-02.webp",
+        "alt": "Ella Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/ella-glass/detail-03.webp",
+        "alt": "Ella Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 44
+    }
+  },
+  {
+    "id": "JOY-GC-046",
+    "sourceItemNo": "JOY-G-202006",
+    "originalName": "Harper Glass",
+    "displayName": "Harper Glass",
+    "name": "Harper Glass",
+    "slug": "harper-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/harper-glass/cover.webp",
+        "alt": "Harper Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/harper-glass/detail-01.webp",
+        "alt": "Harper Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/harper-glass/detail-02.webp",
+        "alt": "Harper Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/harper-glass/detail-03.webp",
+        "alt": "Harper Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/harper-glass/detail-04.webp",
+        "alt": "Harper Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/harper-glass/detail-05.webp",
+        "alt": "Harper Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 45
+    }
+  },
+  {
+    "id": "JOY-GC-047",
+    "sourceItemNo": "JOY-G-202007",
+    "originalName": "Hayley Glass",
+    "displayName": "Hayley Glass",
+    "name": "Hayley Glass",
+    "slug": "hayley-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/hayley-glass/cover.webp",
+        "alt": "Hayley Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/hayley-glass/detail-01.webp",
+        "alt": "Hayley Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hayley-glass/detail-02.webp",
+        "alt": "Hayley Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hayley-glass/detail-03.webp",
+        "alt": "Hayley Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hayley-glass/detail-04.webp",
+        "alt": "Hayley Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/hayley-glass/detail-05.webp",
+        "alt": "Hayley Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 46
+    }
+  },
+  {
+    "id": "JOY-GC-048",
+    "sourceItemNo": "JOY-G-202008",
+    "originalName": "Susan Glass",
+    "displayName": "Susan Glass",
+    "name": "Susan Glass",
+    "slug": "susan-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Champagne Glass",
+      "White Wine Glass",
+      "Water Glass",
+      "Red Wine Glass"
+    ],
+    "colors": [
+      "Gold Rim",
+      "Silver Rim"
+    ],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/susan-glass/cover.webp",
+        "alt": "Susan Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/susan-glass/detail-01.webp",
+        "alt": "Susan Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/susan-glass/detail-02.webp",
+        "alt": "Susan Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/susan-glass/detail-03.webp",
+        "alt": "Susan Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/susan-glass/detail-04.webp",
+        "alt": "Susan Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/susan-glass/detail-05.webp",
+        "alt": "Susan Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 47
+    }
+  },
+  {
+    "id": "JOY-GC-049",
+    "sourceItemNo": "JOY-G-202009",
+    "originalName": "Mia Glass Series",
+    "displayName": "Mia Glass Series",
+    "name": "Mia Glass Series",
+    "slug": "mia-glass-series",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More shapes available"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/mia-glass-series/cover.webp",
+        "alt": "Mia Glass Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/mia-glass-series/detail-01.webp",
+        "alt": "Mia Glass Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/mia-glass-series/detail-02.webp",
+        "alt": "Mia Glass Series detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 48
+    }
+  },
+  {
+    "id": "JOY-GC-050",
+    "sourceItemNo": "JOY-G-202010",
+    "originalName": "Riley Glass",
+    "displayName": "Riley Glass",
+    "name": "Riley Glass",
+    "slug": "riley-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Striped embossed design",
+      "Four sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass",
+      "Water Glass"
+    ],
+    "colors": [],
+    "sizes": [
+      {
+        "name": "Red Wine Glass",
+        "value": "6.3 cm rim x 22.5 cm height"
+      },
+      {
+        "name": "White Wine Glass",
+        "value": "6 cm rim x 21 cm height"
+      },
+      {
+        "name": "Champagne Glass",
+        "value": "4.7 cm rim x 24.5 cm height"
+      },
+      {
+        "name": "Water Glass",
+        "value": "7.5 cm rim x 10.5 cm height"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/riley-glass/cover.webp",
+        "alt": "Riley Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/riley-glass/detail-01.webp",
+        "alt": "Riley Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/riley-glass/detail-02.webp",
+        "alt": "Riley Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 49
+    }
+  },
+  {
+    "id": "JOY-GC-051",
+    "sourceItemNo": "JOY-G-202011",
+    "originalName": "Chloe Glass",
+    "displayName": "Chloe Glass",
+    "name": "Chloe Glass",
+    "slug": "chloe-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Champagne Glass",
+      "White Wine Glass",
+      "Red Wine Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/chloe-glass/cover.webp",
+        "alt": "Chloe Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/chloe-glass/detail-01.webp",
+        "alt": "Chloe Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/chloe-glass/detail-02.webp",
+        "alt": "Chloe Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/chloe-glass/detail-03.webp",
+        "alt": "Chloe Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 50
+    }
+  },
+  {
+    "id": "JOY-GC-052",
+    "sourceItemNo": "JOY-G-202012",
+    "originalName": "Diamond Glass",
+    "displayName": "Diamond Glass",
+    "name": "Diamond Glass",
+    "slug": "diamond-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Water Glass",
+      "Red Wine Glass",
+      "Champagne Glass"
+    ],
+    "colors": [],
+    "sizes": [
+      {
+        "name": "Water Glass",
+        "value": "7 cm rim x 11.5 cm height"
+      },
+      {
+        "name": "Red Wine Glass",
+        "value": "7 cm rim x 25 cm height"
+      },
+      {
+        "name": "Champagne Glass",
+        "value": "4.5 cm rim x 27.5 cm height"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/diamond-glass/cover.webp",
+        "alt": "Diamond Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/diamond-glass/detail-01.webp",
+        "alt": "Diamond Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 51
+    }
+  },
+  {
+    "id": "JOY-GC-053",
+    "sourceItemNo": "JOY-G-202013",
+    "originalName": "Luna Glass",
+    "displayName": "Luna Glass",
+    "name": "Luna Glass",
+    "slug": "luna-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "More sizes available"
+    ],
+    "glassTypes": [
+      "Red Wine Glass",
+      "White Wine Glass",
+      "Champagne Glass"
+    ],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/luna-glass/cover.webp",
+        "alt": "Luna Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/luna-glass/detail-01.webp",
+        "alt": "Luna Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/luna-glass/detail-02.webp",
+        "alt": "Luna Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/luna-glass/detail-03.webp",
+        "alt": "Luna Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 52
+    }
+  },
+  {
+    "id": "JOY-GC-054",
+    "sourceItemNo": "JOY-G-202014",
+    "originalName": "Flower Colorful Glass",
+    "displayName": "Flower Colorful Glass",
+    "name": "Flower Colorful Glass",
+    "slug": "flower-colorful-glass",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/flower-colorful-glass/cover.webp",
+        "alt": "Flower Colorful Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/flower-colorful-glass/detail-01.webp",
+        "alt": "Flower Colorful Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 53
+    }
+  },
+  {
+    "id": "JOY-GC-055",
+    "sourceItemNo": [
+      "JOY-G-202015",
+      "JOY-G-202016",
+      "JOY-G-202017"
+    ],
+    "originalName": "Diamond Glass",
+    "displayName": "Diamond Glass Collection",
+    "name": "Diamond Glass Collection",
+    "slug": "diamond-glass-collection",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Diamond texture",
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [],
+    "sizes": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/small-diamond-glass/cover.webp",
+        "alt": "Small Diamond Glass cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/small-diamond-glass/detail-01.webp",
+        "alt": "Small Diamond Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/middle-diamond-glass/cover.webp",
+        "alt": "Middle Diamond Glass cover image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/middle-diamond-glass/detail-01.webp",
+        "alt": "Middle Diamond Glass detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/big-diamond-glass/cover.webp",
+        "alt": "Big Diamond Glass cover image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/big-diamond-glass/detail-01.webp",
+        "alt": "Big Diamond Glass detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": [
+        54,
+        55,
+        56
+      ]
+    },
+    "variants": [
+      {
+        "id": "JOY-GC-055",
+        "name": "Small Diamond Glass",
+        "sourceItemNo": "JOY-G-202015",
+        "material": "Glass",
+        "sizes": [],
+        "colors": [],
+        "customization": {
+          "available": true,
+          "options": [
+            "Color"
+          ],
+          "notes": "Customized color is accepted."
+        },
+        "images": [
+          {
+            "src": "/products/glass-cup/small-diamond-glass/cover.webp",
+            "alt": "Small Diamond Glass cover image",
+            "role": "cover"
+          },
+          {
+            "src": "/products/glass-cup/small-diamond-glass/detail-01.webp",
+            "alt": "Small Diamond Glass detail image",
+            "role": "detail"
+          }
+        ],
+        "source": {
+          "pdf": "glass-cup.pdf",
+          "page": 54
+        }
+      },
+      {
+        "id": "JOY-GC-056",
+        "name": "Middle Diamond Glass",
+        "sourceItemNo": "JOY-G-202016",
+        "material": "Glass",
+        "sizes": [],
+        "colors": [],
+        "customization": {
+          "available": true,
+          "options": [
+            "Color"
+          ],
+          "notes": "Customized color is accepted."
+        },
+        "images": [
+          {
+            "src": "/products/glass-cup/middle-diamond-glass/cover.webp",
+            "alt": "Middle Diamond Glass cover image",
+            "role": "cover"
+          },
+          {
+            "src": "/products/glass-cup/middle-diamond-glass/detail-01.webp",
+            "alt": "Middle Diamond Glass detail image",
+            "role": "detail"
+          }
+        ],
+        "source": {
+          "pdf": "glass-cup.pdf",
+          "page": 55
+        }
+      },
+      {
+        "id": "JOY-GC-057",
+        "name": "Big Diamond Glass",
+        "sourceItemNo": "JOY-G-202017",
+        "material": "Glass",
+        "sizes": [],
+        "colors": [],
+        "customization": {
+          "available": true,
+          "options": [
+            "Color"
+          ],
+          "notes": "Customized color is accepted."
+        },
+        "images": [
+          {
+            "src": "/products/glass-cup/big-diamond-glass/cover.webp",
+            "alt": "Big Diamond Glass cover image",
+            "role": "cover"
+          },
+          {
+            "src": "/products/glass-cup/big-diamond-glass/detail-01.webp",
+            "alt": "Big Diamond Glass detail image",
+            "role": "detail"
+          }
+        ],
+        "source": {
+          "pdf": "glass-cup.pdf",
+          "page": 56
+        }
+      }
+    ]
+  },
+  {
+    "id": "JOY-GC-058",
+    "sourceItemNo": "JOY-G-202018",
+    "originalName": "Snowflake Glasses",
+    "displayName": "Snowflake Glasses",
+    "name": "Snowflake Glasses",
+    "slug": "snowflake-glasses",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Snowflake texture",
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [
+      "Purple",
+      "Clear",
+      "Smoke",
+      "Blue"
+    ],
+    "sizes": [
+      {
+        "name": "Purple / Smoke / Blue",
+        "value": "8.4 cm rim x 16.6 cm height x 7.6 cm base"
+      },
+      {
+        "name": "Clear",
+        "value": "8.2 cm rim x 16.2 cm height"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/snowflake-glasses/cover.webp",
+        "alt": "Snowflake Glasses cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/snowflake-glasses/detail-01.webp",
+        "alt": "Snowflake Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/snowflake-glasses/detail-02.webp",
+        "alt": "Snowflake Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/snowflake-glasses/detail-03.webp",
+        "alt": "Snowflake Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/snowflake-glasses/detail-04.webp",
+        "alt": "Snowflake Glasses detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 57
+    }
+  },
+  {
+    "id": "JOY-GC-059",
+    "sourceItemNo": "JOY-G-202019",
+    "originalName": "Raindrop Glasses",
+    "displayName": "Raindrop Glasses",
+    "name": "Raindrop Glasses",
+    "slug": "raindrop-glasses",
+    "category": "Glass Cup",
+    "categorySlug": "glass-cup",
+    "subtitle": "",
+    "material": "Glass",
+    "description": "",
+    "features": [
+      "Raindrop texture",
+      "Multi-color presentation"
+    ],
+    "glassTypes": [],
+    "colors": [
+      "Blue",
+      "Purple",
+      "Green",
+      "Light Blue"
+    ],
+    "sizes": [
+      {
+        "name": "Blue / Green / Light Blue",
+        "value": "8 cm rim x 15 cm height x 7.4 cm base"
+      }
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Customized color is accepted."
+    },
+    "images": [
+      {
+        "src": "/products/glass-cup/raindrop-glasses/cover.webp",
+        "alt": "Raindrop Glasses cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/glass-cup/raindrop-glasses/detail-01.webp",
+        "alt": "Raindrop Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/raindrop-glasses/detail-02.webp",
+        "alt": "Raindrop Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/raindrop-glasses/detail-03.webp",
+        "alt": "Raindrop Glasses detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/glass-cup/raindrop-glasses/detail-04.webp",
+        "alt": "Raindrop Glasses detail image",
+        "role": "detail"
+      }
+    ],
+    "source": {
+      "pdf": "glass-cup.pdf",
+      "page": 58
+    }
+  }
+]

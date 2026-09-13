@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "JOY-CU-002",
+    "sourceItemNo": "JOY-C-20250401",
+    "originalName": "FOREST CRAFT SERIE",
+    "displayName": "Forest Craft Series",
+    "slug": "forest-craft-series",
+    "name": "Forest Craft Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/forest-craft-series/cover.webp",
+        "alt": "Forest Craft Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/forest-craft-series/detail-01.webp",
+        "alt": "Forest Craft Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/forest-craft-series/detail-02.webp",
+        "alt": "Forest Craft Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 2
+    }
+  },
+  {
+    "id": "JOY-CU-003",
+    "sourceItemNo": "JOY-C-20250402",
+    "originalName": "RETRO STYLE SERIE",
+    "displayName": "Retro Style Series",
+    "slug": "retro-style-series",
+    "name": "Retro Style Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/retro-style-series/cover.webp",
+        "alt": "Retro Style Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/retro-style-series/detail-01.webp",
+        "alt": "Retro Style Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/retro-style-series/detail-02.webp",
+        "alt": "Retro Style Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/retro-style-series/detail-03.webp",
+        "alt": "Retro Style Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 3
+    }
+  },
+  {
+    "id": "JOY-CU-004",
+    "sourceItemNo": "JOY-C-20240601",
+    "originalName": "WATER DROPLETS SERIE",
+    "displayName": "Water Droplets Series",
+    "slug": "water-droplets-series",
+    "name": "Water Droplets Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/water-droplets-series/cover.webp",
+        "alt": "Water Droplets Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/water-droplets-series/detail-01.webp",
+        "alt": "Water Droplets Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/water-droplets-series/detail-02.webp",
+        "alt": "Water Droplets Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/water-droplets-series/detail-03.webp",
+        "alt": "Water Droplets Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/water-droplets-series/detail-04.webp",
+        "alt": "Water Droplets Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 4
+    }
+  },
+  {
+    "id": "JOY-CU-005",
+    "sourceItemNo": "JOY-C-20240602",
+    "originalName": "OLD MONEY SERIE",
+    "displayName": "Old Money Series",
+    "slug": "old-money-series",
+    "name": "Old Money Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/old-money-series/cover.webp",
+        "alt": "Old Money Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/old-money-series/detail-01.webp",
+        "alt": "Old Money Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/old-money-series/detail-02.webp",
+        "alt": "Old Money Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/old-money-series/detail-03.webp",
+        "alt": "Old Money Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/old-money-series/detail-04.webp",
+        "alt": "Old Money Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "JOY-CU-006",
+    "sourceItemNo": "JOY-C-20240603",
+    "originalName": "TWIST SERIE",
+    "displayName": "Twist Series",
+    "slug": "twist-series",
+    "name": "Twist Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/twist-series/cover.webp",
+        "alt": "Twist Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/twist-series/detail-01.webp",
+        "alt": "Twist Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/twist-series/detail-02.webp",
+        "alt": "Twist Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/twist-series/detail-03.webp",
+        "alt": "Twist Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 6
+    }
+  },
+  {
+    "id": "JOY-CU-007",
+    "sourceItemNo": "JOY-C-20240604",
+    "originalName": "NOBLE SERIE",
+    "displayName": "Noble Series",
+    "slug": "noble-series",
+    "name": "Noble Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/noble-series/cover.webp",
+        "alt": "Noble Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/noble-series/detail-01.webp",
+        "alt": "Noble Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/noble-series/detail-02.webp",
+        "alt": "Noble Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 7
+    }
+  },
+  {
+    "id": "JOY-CU-008",
+    "sourceItemNo": "JOY-C-20240605",
+    "originalName": "NUT SERIE",
+    "displayName": "Nut Series",
+    "slug": "nut-series",
+    "name": "Nut Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/nut-series/cover.webp",
+        "alt": "Nut Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/nut-series/detail-01.webp",
+        "alt": "Nut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/nut-series/detail-02.webp",
+        "alt": "Nut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/nut-series/detail-03.webp",
+        "alt": "Nut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/nut-series/detail-04.webp",
+        "alt": "Nut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/nut-series/detail-05.webp",
+        "alt": "Nut Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 8
+    }
+  },
+  {
+    "id": "JOY-CU-009",
+    "sourceItemNo": "JOY-C-20240606",
+    "originalName": "ROMA SERIE",
+    "displayName": "Roma Series",
+    "slug": "roma-series",
+    "name": "Roma Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/roma-series/cover.webp",
+        "alt": "Roma Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/roma-series/detail-01.webp",
+        "alt": "Roma Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/roma-series/detail-02.webp",
+        "alt": "Roma Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/roma-series/detail-03.webp",
+        "alt": "Roma Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/roma-series/detail-04.webp",
+        "alt": "Roma Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 9
+    }
+  },
+  {
+    "id": "JOY-CU-010",
+    "sourceItemNo": "JOY-C-20240607",
+    "originalName": "ROTARY SERIE",
+    "displayName": "Rotary Series",
+    "slug": "rotary-series",
+    "name": "Rotary Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/rotary-series/cover.webp",
+        "alt": "Rotary Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/rotary-series/detail-01.webp",
+        "alt": "Rotary Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/rotary-series/detail-02.webp",
+        "alt": "Rotary Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/rotary-series/detail-03.webp",
+        "alt": "Rotary Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 10
+    }
+  },
+  {
+    "id": "JOY-CU-011",
+    "sourceItemNo": "JOY-C-20240608",
+    "originalName": "COCONUT SERIE",
+    "displayName": "Coconut Series",
+    "slug": "coconut-series",
+    "name": "Coconut Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/coconut-series/cover.webp",
+        "alt": "Coconut Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/coconut-series/detail-01.webp",
+        "alt": "Coconut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/coconut-series/detail-02.webp",
+        "alt": "Coconut Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/coconut-series/detail-03.webp",
+        "alt": "Coconut Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 11
+    }
+  },
+  {
+    "id": "JOY-CU-012",
+    "sourceItemNo": "JOY-C-20240609",
+    "originalName": "MAGIC SERIE",
+    "displayName": "Magic Series",
+    "slug": "magic-series",
+    "name": "Magic Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/magic-series/cover.webp",
+        "alt": "Magic Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/magic-series/detail-01.webp",
+        "alt": "Magic Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/magic-series/detail-02.webp",
+        "alt": "Magic Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/magic-series/detail-03.webp",
+        "alt": "Magic Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 12
+    }
+  },
+  {
+    "id": "JOY-CU-013",
+    "sourceItemNo": "JOY-C-202101",
+    "originalName": "Diamond Series",
+    "displayName": "Diamond Series",
+    "slug": "diamond-series",
+    "name": "Diamond Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/diamond-series/cover.webp",
+        "alt": "Diamond Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/diamond-series/detail-01.webp",
+        "alt": "Diamond Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 13
+    }
+  },
+  {
+    "id": "JOY-CU-014",
+    "sourceItemNo": "JOY-C-202102",
+    "originalName": "Serveware Series",
+    "displayName": "Serveware Series",
+    "slug": "serveware-series",
+    "name": "Serveware Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/serveware-series/cover.webp",
+        "alt": "Serveware Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/serveware-series/detail-01.webp",
+        "alt": "Serveware Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Big-size Spoon",
+      "Big-size Knife",
+      "Big-size Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 14
+    }
+  },
+  {
+    "id": "JOY-CU-015",
+    "sourceItemNo": "JOY-C-202103",
+    "originalName": "Bamboo Series",
+    "displayName": "Bamboo Series",
+    "slug": "bamboo-series",
+    "name": "Bamboo Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/bamboo-series/cover.webp",
+        "alt": "Bamboo Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/bamboo-series/detail-01.webp",
+        "alt": "Bamboo Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel; bamboo handle",
+    "finishes": [],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Packaging"
+      ],
+      "notes": "Customized package available."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 15
+    }
+  },
+  {
+    "id": "JOY-CU-016",
+    "sourceItemNo": "JOY-C-202104",
+    "originalName": "Shell Series",
+    "displayName": "Shell Series",
+    "slug": "shell-series",
+    "name": "Shell Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/shell-series/cover.webp",
+        "alt": "Shell Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/shell-series/detail-01.webp",
+        "alt": "Shell Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 16
+    }
+  },
+  {
+    "id": "JOY-CU-017",
+    "sourceItemNo": "JOY-C-202105",
+    "originalName": "Hermas Series",
+    "displayName": "Hermas Series",
+    "slug": "hermas-series",
+    "name": "Hermas Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/hermas-series/cover.webp",
+        "alt": "Hermas Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/hermas-series/detail-01.webp",
+        "alt": "Hermas Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Gold",
+      "Silver",
+      "Rose Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Coffee Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 17
+    }
+  },
+  {
+    "id": "JOY-CU-018",
+    "sourceItemNo": "JOY-C-202106",
+    "originalName": "Babylon Series",
+    "displayName": "Babylon Series",
+    "slug": "babylon-series",
+    "name": "Babylon Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/babylon-series/cover.webp",
+        "alt": "Babylon Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/babylon-series/detail-01.webp",
+        "alt": "Babylon Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Packaging"
+      ],
+      "notes": "Customized package available."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 18
+    }
+  },
+  {
+    "id": "JOY-CU-019",
+    "sourceItemNo": "JOY-C-202108",
+    "originalName": "Palace2 Series",
+    "displayName": "Palace2 Series",
+    "slug": "palace2-series",
+    "name": "Palace2 Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/palace2-series/cover.webp",
+        "alt": "Palace2 Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/palace2-series/detail-01.webp",
+        "alt": "Palace2 Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 19
+    }
+  },
+  {
+    "id": "JOY-CU-020",
+    "sourceItemNo": "JOY-C-202109",
+    "originalName": "Embossed Series",
+    "displayName": "Embossed Series",
+    "slug": "embossed-series",
+    "name": "Embossed Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/embossed-series/cover.webp",
+        "alt": "Embossed Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/embossed-series/detail-01.webp",
+        "alt": "Embossed Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Coffee Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Packaging"
+      ],
+      "notes": "Customized package available."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 20
+    }
+  },
+  {
+    "id": "JOY-CU-021",
+    "sourceItemNo": [
+      "JOY-C-202110",
+      "JOY-C-202111"
+    ],
+    "originalName": "Hotel Series",
+    "displayName": "Hotel Series Collection",
+    "slug": "hotel-series",
+    "name": "Hotel Series Collection",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/hotel-series-202110/cover.webp",
+        "alt": "Hotel Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/hotel-series-202110/detail-01.webp",
+        "alt": "Hotel Series detail image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/hotel-series-202111/cover.webp",
+        "alt": "Hotel Series cover image",
+        "role": "detail"
+      },
+      {
+        "src": "/products/cutlery/hotel-series-202111/detail-01.webp",
+        "alt": "Hotel Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Packaging"
+      ],
+      "notes": "Customized package available."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": [
+        21,
+        22
+      ]
+    },
+    "variants": [
+      {
+        "id": "JOY-CU-021",
+        "name": "Style Variant 01",
+        "sourceItemNo": "JOY-C-202110",
+        "material": "304 stainless steel",
+        "finishes": [
+          "Matte Gold",
+          "Shiny Gold",
+          "Silver"
+        ],
+        "availablePieces": [
+          "Main Spoon",
+          "Knife",
+          "Fork",
+          "Dessert Spoon",
+          "Dessert Knife",
+          "Dessert Fork"
+        ],
+        "setComposition": [],
+        "sizes": [],
+        "colors": [],
+        "customization": {
+          "available": true,
+          "options": [
+            "Packaging"
+          ],
+          "notes": "Customized package available."
+        },
+        "images": [
+          {
+            "src": "/products/cutlery/hotel-series-202110/cover.webp",
+            "alt": "Hotel Series cover image",
+            "role": "cover"
+          },
+          {
+            "src": "/products/cutlery/hotel-series-202110/detail-01.webp",
+            "alt": "Hotel Series detail image",
+            "role": "detail"
+          }
+        ],
+        "source": {
+          "pdf": "cutlery.pdf",
+          "page": 21
+        }
+      },
+      {
+        "id": "JOY-CU-022",
+        "name": "Style Variant 02",
+        "sourceItemNo": "JOY-C-202111",
+        "material": "304 stainless steel",
+        "finishes": [
+          "Matte Gold",
+          "Shiny Gold",
+          "Silver"
+        ],
+        "availablePieces": [
+          "Main Spoon",
+          "Knife",
+          "Fork",
+          "Dessert Spoon",
+          "Dessert Fork"
+        ],
+        "setComposition": [],
+        "sizes": [],
+        "colors": [],
+        "customization": {
+          "available": true,
+          "options": [
+            "Packaging"
+          ],
+          "notes": "Customized package available."
+        },
+        "images": [
+          {
+            "src": "/products/cutlery/hotel-series-202111/cover.webp",
+            "alt": "Hotel Series cover image",
+            "role": "cover"
+          },
+          {
+            "src": "/products/cutlery/hotel-series-202111/detail-01.webp",
+            "alt": "Hotel Series detail image",
+            "role": "detail"
+          }
+        ],
+        "source": {
+          "pdf": "cutlery.pdf",
+          "page": 22
+        }
+      }
+    ]
+  },
+  {
+    "id": "JOY-CU-023",
+    "sourceItemNo": "JOY-C-202112",
+    "originalName": "Twilight Series",
+    "displayName": "Twilight Series",
+    "slug": "twilight-series",
+    "name": "Twilight Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/twilight-series/cover.webp",
+        "alt": "Twilight Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/twilight-series/detail-01.webp",
+        "alt": "Twilight Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 23
+    }
+  },
+  {
+    "id": "JOY-CU-024",
+    "sourceItemNo": "JOY-C-202113",
+    "originalName": "Vintage Series",
+    "displayName": "Vintage Series",
+    "slug": "vintage-series",
+    "name": "Vintage Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/vintage-series/cover.webp",
+        "alt": "Vintage Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/vintage-series/detail-01.webp",
+        "alt": "Vintage Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Gold",
+      "Silver",
+      "Rose Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Coffee Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 24
+    }
+  },
+  {
+    "id": "JOY-CU-025",
+    "sourceItemNo": "JOY-C-202114",
+    "originalName": "WanTing Series",
+    "displayName": "WanTing Series",
+    "slug": "wanting-series",
+    "name": "WanTing Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/wanting-series/cover.webp",
+        "alt": "WanTing Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/wanting-series/detail-01.webp",
+        "alt": "WanTing Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold",
+      "Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Packaging"
+      ],
+      "notes": "Customized package available."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 25
+    }
+  },
+  {
+    "id": "JOY-CU-026",
+    "sourceItemNo": "JOY-C-200201",
+    "originalName": "ANNE SERIE",
+    "displayName": "Anne Series",
+    "slug": "anne-series",
+    "name": "Anne Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/anne-series/cover.webp",
+        "alt": "Anne Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/anne-series/detail-01.webp",
+        "alt": "Anne Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 26
+    }
+  },
+  {
+    "id": "JOY-CU-027",
+    "sourceItemNo": "JOY-C-200202",
+    "originalName": "Yatin Series",
+    "displayName": "Yatin Series",
+    "slug": "yatin-series",
+    "name": "Yatin Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/yatin-series/cover.webp",
+        "alt": "Yatin Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/yatin-series/detail-01.webp",
+        "alt": "Yatin Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Pink/Gold",
+      "Red/Gold",
+      "Mint Green/Gold",
+      "Color/Gold",
+      "Deep Green/Gold",
+      "Grass/Gold",
+      "Black/Gold",
+      "Yellow/Gold"
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 27
+    }
+  },
+  {
+    "id": "JOY-CU-028",
+    "sourceItemNo": "JOY-C-200203",
+    "originalName": "Tower Series",
+    "displayName": "Tower Series",
+    "slug": "tower-series",
+    "name": "Tower Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/tower-series/cover.webp",
+        "alt": "Tower Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/tower-series/detail-01.webp",
+        "alt": "Tower Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 28
+    }
+  },
+  {
+    "id": "JOY-CU-029",
+    "sourceItemNo": "JOY-C-200204",
+    "originalName": "QingLong Series",
+    "displayName": "QingLong Series",
+    "slug": "qinglong-series",
+    "name": "QingLong Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/qinglong-series/cover.webp",
+        "alt": "QingLong Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/qinglong-series/detail-01.webp",
+        "alt": "QingLong Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Matte Gold",
+      "Blue Gold",
+      "Pink Gold",
+      "Black Gold"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 29
+    }
+  },
+  {
+    "id": "JOY-CU-030",
+    "sourceItemNo": "JOY-C-200205",
+    "originalName": "Royal Series",
+    "displayName": "Royal Series",
+    "slug": "royal-series",
+    "name": "Royal Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/royal-series/cover.webp",
+        "alt": "Royal Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/royal-series/detail-01.webp",
+        "alt": "Royal Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Gold",
+      "Shiny Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 30
+    }
+  },
+  {
+    "id": "JOY-CU-031",
+    "sourceItemNo": "JOY-C-200206",
+    "originalName": "England Series",
+    "displayName": "England Series",
+    "slug": "england-series",
+    "name": "England Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/england-series/cover.webp",
+        "alt": "England Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/england-series/detail-01.webp",
+        "alt": "England Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Fork",
+      "Butter Knife"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Matte Gold",
+      "Silver",
+      "Rose Gold",
+      "Black Gold"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 31
+    }
+  },
+  {
+    "id": "JOY-CU-032",
+    "sourceItemNo": "JOY-C-200207",
+    "originalName": "Simon Series",
+    "displayName": "Simon Series",
+    "slug": "simon-series",
+    "name": "Simon Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/simon-series/cover.webp",
+        "alt": "Simon Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/simon-series/detail-01.webp",
+        "alt": "Simon Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Shiny Gold",
+      "Silver",
+      "Rose Gold",
+      "Black"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 32
+    }
+  },
+  {
+    "id": "JOY-CU-033",
+    "sourceItemNo": "JOY-C-200208",
+    "originalName": "Wheat Series",
+    "displayName": "Wheat Series",
+    "slug": "wheat-series",
+    "name": "Wheat Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/wheat-series/cover.webp",
+        "alt": "Wheat Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/wheat-series/detail-01.webp",
+        "alt": "Wheat Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Shiny Gold",
+      "Silver",
+      "Rose Gold"
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 33
+    }
+  },
+  {
+    "id": "JOY-CU-034",
+    "sourceItemNo": "JOY-C-200209",
+    "originalName": "Angela Series",
+    "displayName": "Angela Series",
+    "slug": "angela-series",
+    "name": "Angela Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/angela-series/cover.webp",
+        "alt": "Angela Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/angela-series/detail-01.webp",
+        "alt": "Angela Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Shiny Gold",
+      "Silver",
+      "Rose Gold",
+      "Black"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 34
+    }
+  },
+  {
+    "id": "JOY-CU-035",
+    "sourceItemNo": "JOY-C-200210",
+    "originalName": "SD-11 Series",
+    "displayName": "SD-11 Series",
+    "slug": "sd-11-series",
+    "name": "SD-11 Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/sd-11-series/cover.webp",
+        "alt": "SD-11 Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/sd-11-series/detail-01.webp",
+        "alt": "SD-11 Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Shiny Gold",
+      "White Gold",
+      "Black Gold",
+      "Black Silver"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 35
+    }
+  },
+  {
+    "id": "JOY-CU-036",
+    "sourceItemNo": "JOY-C-200211",
+    "originalName": "New Moon Series",
+    "displayName": "New Moon Series",
+    "slug": "new-moon-series",
+    "name": "New Moon Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/new-moon-series/cover.webp",
+        "alt": "New Moon Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/new-moon-series/detail-01.webp",
+        "alt": "New Moon Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Matte Gold",
+      "Shiny Gold"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "White Gold",
+      "Pink Gold",
+      "Silver"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 36
+    }
+  },
+  {
+    "id": "JOY-CU-037",
+    "sourceItemNo": "JOY-C-200212",
+    "originalName": "Loulan Series",
+    "displayName": "Loulan Series",
+    "slug": "loulan-series",
+    "name": "Loulan Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/loulan-series/cover.webp",
+        "alt": "Loulan Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/loulan-series/detail-01.webp",
+        "alt": "Loulan Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Knife",
+      "Dessert Fork",
+      "Butter Knife",
+      "Fruit Fork",
+      "Tea Spoon"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Natural Wood",
+      "Red Wood",
+      "Black Wood"
+    ],
+    "applications": [],
+    "customization": {
+      "available": true,
+      "options": [
+        "Color"
+      ],
+      "notes": "Available for customized color."
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 37
+    }
+  },
+  {
+    "id": "JOY-CU-038",
+    "sourceItemNo": "JOY-C-200213",
+    "originalName": "MC Series",
+    "displayName": "MC Series",
+    "slug": "mc-series",
+    "name": "MC Series",
+    "category": "Cutlery",
+    "categorySlug": "cutlery",
+    "subtitle": "",
+    "description": "",
+    "features": [],
+    "images": [
+      {
+        "src": "/products/cutlery/mc-series/cover.webp",
+        "alt": "MC Series cover image",
+        "role": "cover"
+      },
+      {
+        "src": "/products/cutlery/mc-series/detail-01.webp",
+        "alt": "MC Series detail image",
+        "role": "detail"
+      }
+    ],
+    "material": "304 stainless steel",
+    "finishes": [
+      "Shiny Silver"
+    ],
+    "availablePieces": [
+      "Main Spoon",
+      "Knife",
+      "Fork",
+      "Dessert Spoon",
+      "Dessert Fork"
+    ],
+    "setComposition": [],
+    "sizes": [],
+    "colors": [
+      "Natural Wood"
+    ],
+    "applications": [],
+    "customization": {
+      "available": null,
+      "options": [],
+      "notes": ""
+    },
+    "source": {
+      "pdf": "cutlery.pdf",
+      "page": 38
+    }
+  }
+]
