@@ -1,4 +1,4 @@
-import imageDisplayPriority from "@/product-import/product-image-display-priority.json";
+import imageDisplayPriority from "@/lib/product-image-display-priority.json";
 import type { ProductImage } from "@/types/product";
 
 type ProductImageDisplayRecord = {

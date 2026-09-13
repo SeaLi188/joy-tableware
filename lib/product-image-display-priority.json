@@ -1,0 +1,2943 @@
+{
+  "generatedAt": "2026-08-16T03:17:37.818Z",
+  "thresholds": {
+    "minimumShortEdge": 240,
+    "minimumPixels": 80000,
+    "blackBorderRatio": 0.72,
+    "blackPixelRatio": 0.2,
+    "croppedEdgeRatio": 0.42,
+    "similarHashDistance": 4,
+    "similarMeanDifference": 0.045
+  },
+  "products": {
+    "JOY-CP-001": {
+      "display": [
+        "/products/ceramic-plate/lattice-weave/detail-01.webp",
+        "/products/ceramic-plate/lattice-weave/scene.webp"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/lattice-weave/detail-01.webp": "/products-display/ceramic-plate/lattice-weave/detail-01.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/lattice-weave/cover.webp": [
+          "visually similar to /products/ceramic-plate/lattice-weave/scene.webp"
+        ],
+        "/products/ceramic-plate/lattice-weave/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-002": {
+      "display": [
+        "/products/ceramic-plate/enchanted-vine/cover.webp",
+        "/products/ceramic-plate/enchanted-vine/detail-01.webp",
+        "/products/ceramic-plate/enchanted-vine/detail-02.webp",
+        "/products/ceramic-plate/enchanted-vine/scene.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-003": {
+      "display": [
+        "/products/ceramic-plate/mint-green-lace-whisper/cover.webp",
+        "/products/ceramic-plate/mint-green-lace-whisper/detail-01.webp",
+        "/products/ceramic-plate/mint-green-lace-whisper/scene.webp"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/mint-green-lace-whisper/detail-01.webp": "/products-display/ceramic-plate/mint-green-lace-whisper/detail-01.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/mint-green-lace-whisper/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-004": {
+      "display": [
+        "/products/ceramic-plate/whispering-wings/detail-01.webp",
+        "/products/ceramic-plate/whispering-wings/scene.webp"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/whispering-wings/detail-01.webp": "/products-display/ceramic-plate/whispering-wings/detail-01.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/whispering-wings/cover.webp": [
+          "visually similar to /products/ceramic-plate/whispering-wings/scene.webp"
+        ],
+        "/products/ceramic-plate/whispering-wings/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-005": {
+      "display": [
+        "/products/ceramic-plate/minimalist-daisy/cover.webp",
+        "/products/ceramic-plate/minimalist-daisy/detail-01.webp",
+        "/products/ceramic-plate/minimalist-daisy/detail-02.webp",
+        "/products/ceramic-plate/minimalist-daisy/scene.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-006": {
+      "display": [
+        "/products/ceramic-plate/emerald-garden-tapestry/cover.webp",
+        "/products/ceramic-plate/emerald-garden-tapestry/detail-01.webp",
+        "/products/ceramic-plate/emerald-garden-tapestry/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/emerald-garden-tapestry/scene.webp": [
+          "visually similar to /products/ceramic-plate/emerald-garden-tapestry/cover.webp"
+        ]
+      }
+    },
+    "JOY-CP-007": {
+      "display": [
+        "/products/ceramic-plate/colorful-filigree/cover.webp",
+        "/products/ceramic-plate/colorful-filigree/detail-01.webp",
+        "/products/ceramic-plate/colorful-filigree/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/colorful-filigree/scene.webp": [
+          "visually similar to /products/ceramic-plate/colorful-filigree/cover.webp"
+        ]
+      }
+    },
+    "JOY-CP-008": {
+      "display": [
+        "/products/ceramic-plate/regal-swan/cover.webp",
+        "/products/ceramic-plate/regal-swan/detail-01.webp",
+        "/products/ceramic-plate/regal-swan/detail-02.webp",
+        "/products/ceramic-plate/regal-swan/scene.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-009": {
+      "display": [
+        "/products/ceramic-plate/silver-constellation/cover.webp",
+        "/products/ceramic-plate/silver-constellation/detail-01.webp",
+        "/products/ceramic-plate/silver-constellation/detail-02.webp",
+        "/products/ceramic-plate/silver-constellation/scene.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-010": {
+      "display": [
+        "/products/ceramic-plate/vintage-brown-floral/detail-01.webp",
+        "/products/ceramic-plate/vintage-brown-floral/scene.webp"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/vintage-brown-floral/detail-01.webp": "/products-display/ceramic-plate/vintage-brown-floral/detail-01.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/vintage-brown-floral/cover.webp": [
+          "visually similar to /products/ceramic-plate/vintage-brown-floral/scene.webp"
+        ],
+        "/products/ceramic-plate/vintage-brown-floral/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-011": {
+      "display": [
+        "/products/ceramic-plate/lily-and-lotus/cover.webp",
+        "/products/ceramic-plate/lily-and-lotus/detail-01.webp",
+        "/products/ceramic-plate/lily-and-lotus/detail-02.webp",
+        "/products/ceramic-plate/lily-and-lotus/scene.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-012": {
+      "display": [
+        "/products/ceramic-plate/vintage-dream-floral/cover.png",
+        "/products/ceramic-plate/vintage-dream-floral/detail-01.png",
+        "/products/ceramic-plate/vintage-dream-floral/detail-02.png",
+        "/products/ceramic-plate/vintage-dream-floral/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-013": {
+      "display": [
+        "/products/ceramic-plate/ember-floral/cover.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/ember-floral/cover.png": "/products-display/ceramic-plate/ember-floral/cover.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/ember-floral/detail-01.png": [
+          "possible cropped product edges"
+        ],
+        "/products/ceramic-plate/ember-floral/detail-02.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-014": {
+      "display": [
+        "/products/ceramic-plate/verdant-garden/cover.png",
+        "/products/ceramic-plate/verdant-garden/detail-01.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/verdant-garden/cover.png": "/products-display/ceramic-plate/verdant-garden/cover.webp",
+        "/products/ceramic-plate/verdant-garden/detail-01.png": "/products-display/ceramic-plate/verdant-garden/detail-01.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/verdant-garden/detail-02.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-015": {
+      "display": [
+        "/products/ceramic-plate/emerald-wings/cover.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/emerald-wings/cover.png": "/products-display/ceramic-plate/emerald-wings/cover.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/emerald-wings/detail-01.png": [
+          "possible cropped product edges"
+        ],
+        "/products/ceramic-plate/emerald-wings/detail-02.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-016": {
+      "display": [
+        "/products/ceramic-plate/colorful-twin-stripes/cover.png",
+        "/products/ceramic-plate/colorful-twin-stripes/detail-01.png",
+        "/products/ceramic-plate/colorful-twin-stripes/detail-02.png",
+        "/products/ceramic-plate/colorful-twin-stripes/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-017": {
+      "display": [
+        "/products/ceramic-plate/petal-blossom/cover.png",
+        "/products/ceramic-plate/petal-blossom/detail-01.png",
+        "/products/ceramic-plate/petal-blossom/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/petal-blossom/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-018": {
+      "display": [
+        "/products/ceramic-plate/orange-fireworks/cover.png",
+        "/products/ceramic-plate/orange-fireworks/detail-01.png",
+        "/products/ceramic-plate/orange-fireworks/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/orange-fireworks/cover.png": "/products-display/ceramic-plate/orange-fireworks/cover.webp",
+        "/products/ceramic-plate/orange-fireworks/detail-01.png": "/products-display/ceramic-plate/orange-fireworks/detail-01.webp",
+        "/products/ceramic-plate/orange-fireworks/detail-02.png": "/products-display/ceramic-plate/orange-fireworks/detail-02.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/orange-fireworks/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-019": {
+      "display": [
+        "/products/ceramic-plate/vintage-flower/cover.png",
+        "/products/ceramic-plate/vintage-flower/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/vintage-flower/cover.png": "/products-display/ceramic-plate/vintage-flower/cover.webp",
+        "/products/ceramic-plate/vintage-flower/detail-02.png": "/products-display/ceramic-plate/vintage-flower/detail-02.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/vintage-flower/detail-01.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-020": {
+      "display": [
+        "/products/ceramic-plate/enchanted-garden/cover.png",
+        "/products/ceramic-plate/enchanted-garden/detail-01.png",
+        "/products/ceramic-plate/enchanted-garden/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/enchanted-garden/cover.png": "/products-display/ceramic-plate/enchanted-garden/cover.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/enchanted-garden/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-021": {
+      "display": [
+        "/products/ceramic-plate/celestial-jade/cover.png",
+        "/products/ceramic-plate/celestial-jade/detail-01.png",
+        "/products/ceramic-plate/celestial-jade/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-022": {
+      "display": [
+        "/products/ceramic-plate/celestial-garden/cover.png",
+        "/products/ceramic-plate/celestial-garden/detail-01.png",
+        "/products/ceramic-plate/celestial-garden/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/celestial-garden/cover.png": "/products-display/ceramic-plate/celestial-garden/cover.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/celestial-garden/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-023": {
+      "display": [
+        "/products/ceramic-plate/ginori-series/cover.png",
+        "/products/ceramic-plate/ginori-series/detail-01.png",
+        "/products/ceramic-plate/ginori-series/detail-02.png",
+        "/products/ceramic-plate/ginori-series/detail-03.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/ginori-series/detail-01.png": "/products-display/ceramic-plate/ginori-series/detail-01.webp",
+        "/products/ceramic-plate/ginori-series/detail-02.png": "/products-display/ceramic-plate/ginori-series/detail-02.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-024": {
+      "display": [
+        "/products/ceramic-plate/vintage-prism/cover.png",
+        "/products/ceramic-plate/vintage-prism/detail-01.png",
+        "/products/ceramic-plate/vintage-prism/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-025": {
+      "display": [
+        "/products/ceramic-plate/forest-petals/cover.png",
+        "/products/ceramic-plate/forest-petals/detail-01.png",
+        "/products/ceramic-plate/forest-petals/detail-02.png",
+        "/products/ceramic-plate/forest-petals/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-026": {
+      "display": [
+        "/products/ceramic-plate/white-eden/cover.png",
+        "/products/ceramic-plate/white-eden/detail-01.png",
+        "/products/ceramic-plate/white-eden/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-027": {
+      "display": [
+        "/products/ceramic-plate/antique-cerulean/cover.png",
+        "/products/ceramic-plate/antique-cerulean/detail-01.png",
+        "/products/ceramic-plate/antique-cerulean/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-028": {
+      "display": [
+        "/products/ceramic-plate/timeless-garden/cover.png",
+        "/products/ceramic-plate/timeless-garden/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/timeless-garden/detail-02.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-029": {
+      "display": [
+        "/products/ceramic-plate/blossom-meadow/cover.png",
+        "/products/ceramic-plate/blossom-meadow/detail-01.png",
+        "/products/ceramic-plate/blossom-meadow/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-030": {
+      "display": [
+        "/products/ceramic-plate/white-hollow/cover.png",
+        "/products/ceramic-plate/white-hollow/detail-01.png",
+        "/products/ceramic-plate/white-hollow/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/white-hollow/detail-02.png": "/products-display/ceramic-plate/white-hollow/detail-02.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-031": {
+      "display": [
+        "/products/ceramic-plate/threaded-colorful-design/cover.png",
+        "/products/ceramic-plate/threaded-colorful-design/detail-01.png",
+        "/products/ceramic-plate/threaded-colorful-design/detail-02.png",
+        "/products/ceramic-plate/threaded-colorful-design/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-032": {
+      "display": [
+        "/products/ceramic-plate/new-life/cover.png",
+        "/products/ceramic-plate/new-life/detail-01.png",
+        "/products/ceramic-plate/new-life/detail-02.png",
+        "/products/ceramic-plate/new-life/detail-03.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/new-life/detail-02.png": "/products-display/ceramic-plate/new-life/detail-02.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-033": {
+      "display": [
+        "/products/ceramic-plate/summer-solstice/cover.png",
+        "/products/ceramic-plate/summer-solstice/detail-01.png",
+        "/products/ceramic-plate/summer-solstice/detail-02.png",
+        "/products/ceramic-plate/summer-solstice/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-034": {
+      "display": [
+        "/products/ceramic-plate/spring-rain/cover.png",
+        "/products/ceramic-plate/spring-rain/detail-01.png",
+        "/products/ceramic-plate/spring-rain/detail-02.png",
+        "/products/ceramic-plate/spring-rain/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-035": {
+      "display": [
+        "/products/ceramic-plate/autumnal-equinox/cover.png",
+        "/products/ceramic-plate/autumnal-equinox/detail-01.png",
+        "/products/ceramic-plate/autumnal-equinox/detail-02.png",
+        "/products/ceramic-plate/autumnal-equinox/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-036": {
+      "display": [
+        "/products/ceramic-plate/pearl-dinnerware/cover.png",
+        "/products/ceramic-plate/pearl-dinnerware/detail-01.png",
+        "/products/ceramic-plate/pearl-dinnerware/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-037": {
+      "display": [
+        "/products/ceramic-plate/miscanthus/cover.png",
+        "/products/ceramic-plate/miscanthus/detail-01.png",
+        "/products/ceramic-plate/miscanthus/detail-02.png",
+        "/products/ceramic-plate/miscanthus/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-038": {
+      "display": [
+        "/products/ceramic-plate/ink-jiangnan/cover.png",
+        "/products/ceramic-plate/ink-jiangnan/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-039": {
+      "display": [
+        "/products/ceramic-plate/facing-the-sun/cover.png",
+        "/products/ceramic-plate/facing-the-sun/detail-01.png",
+        "/products/ceramic-plate/facing-the-sun/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-040": {
+      "display": [
+        "/products/ceramic-plate/jadeite-series/cover.png",
+        "/products/ceramic-plate/jadeite-series/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-041": {
+      "display": [
+        "/products/ceramic-plate/traces-series/cover.png",
+        "/products/ceramic-plate/traces-series/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-042": {
+      "display": [
+        "/products/ceramic-plate/over-flow/cover.png",
+        "/products/ceramic-plate/over-flow/detail-01.png",
+        "/products/ceramic-plate/over-flow/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-043": {
+      "display": [
+        "/products/ceramic-plate/nostalgia-series/cover.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-044": {
+      "display": [
+        "/products/ceramic-plate/birdsong-series/cover.png",
+        "/products/ceramic-plate/birdsong-series/detail-01.png",
+        "/products/ceramic-plate/birdsong-series/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-045": {
+      "display": [
+        "/products/ceramic-plate/first-meet/cover.png",
+        "/products/ceramic-plate/first-meet/detail-01.png",
+        "/products/ceramic-plate/first-meet/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-046": {
+      "display": [
+        "/products/ceramic-plate/dawn-meet/cover.png",
+        "/products/ceramic-plate/dawn-meet/detail-01.png",
+        "/products/ceramic-plate/dawn-meet/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/dawn-meet/detail-01.png": "/products-display/ceramic-plate/dawn-meet/detail-01.webp",
+        "/products/ceramic-plate/dawn-meet/detail-02.png": "/products-display/ceramic-plate/dawn-meet/detail-02.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-047": {
+      "display": [
+        "/products/ceramic-plate/brilliance-of-spring/cover.png",
+        "/products/ceramic-plate/brilliance-of-spring/detail-01.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/brilliance-of-spring/detail-01.png": "/products-display/ceramic-plate/brilliance-of-spring/detail-01.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-048": {
+      "display": [
+        "/products/ceramic-plate/harvest-of-autumn/cover.png",
+        "/products/ceramic-plate/harvest-of-autumn/detail-01.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/harvest-of-autumn/detail-01.png": "/products-display/ceramic-plate/harvest-of-autumn/detail-01.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-049": {
+      "display": [
+        "/products/ceramic-plate/autumn-language/cover.png",
+        "/products/ceramic-plate/autumn-language/detail-01.png",
+        "/products/ceramic-plate/autumn-language/detail-02.png",
+        "/products/ceramic-plate/autumn-language/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-050": {
+      "display": [
+        "/products/ceramic-plate/spring-day/cover.png",
+        "/products/ceramic-plate/spring-day/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-051": {
+      "display": [
+        "/products/ceramic-plate/afternoon-time/cover.png",
+        "/products/ceramic-plate/afternoon-time/detail-01.png",
+        "/products/ceramic-plate/afternoon-time/detail-02.png",
+        "/products/ceramic-plate/afternoon-time/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-052": {
+      "display": [
+        "/products/ceramic-plate/embossed-lily/cover.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/embossed-lily/detail-01.png": [
+          "possible cropped product edges"
+        ],
+        "/products/ceramic-plate/embossed-lily/detail-02.png": [
+          "possible cropped product edges"
+        ],
+        "/products/ceramic-plate/embossed-lily/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-053": {
+      "display": [
+        "/products/ceramic-plate/leaves-falling/cover.png",
+        "/products/ceramic-plate/leaves-falling/detail-01.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/leaves-falling/detail-01.png": "/products-display/ceramic-plate/leaves-falling/detail-01.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-078": {
+      "display": [
+        "/products/ceramic-plate/lily-of-the-valley/cover.png",
+        "/products/ceramic-plate/lily-of-the-valley/detail-01.png",
+        "/products/ceramic-plate/lily-of-the-valley/detail-02.png",
+        "/products/ceramic-plate/lily-of-the-valley/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-079": {
+      "display": [
+        "/products/ceramic-plate/leaf-butterfly/cover.png",
+        "/products/ceramic-plate/leaf-butterfly/detail-01.png",
+        "/products/ceramic-plate/leaf-butterfly/detail-02.png",
+        "/products/ceramic-plate/leaf-butterfly/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-080": {
+      "display": [
+        "/products/ceramic-plate/spring-come/cover.png",
+        "/products/ceramic-plate/spring-come/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/spring-come/detail-02.png": [
+          "visually similar to /products/ceramic-plate/spring-come/detail-01.png"
+        ]
+      }
+    },
+    "JOY-CP-081": {
+      "display": [
+        "/products/ceramic-plate/blue-peony/cover.png",
+        "/products/ceramic-plate/blue-peony/detail-01.png",
+        "/products/ceramic-plate/blue-peony/detail-02.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/blue-peony/detail-01.png": "/products-display/ceramic-plate/blue-peony/detail-01.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-082": {
+      "display": [
+        "/products/ceramic-plate/happy-return/cover.png",
+        "/products/ceramic-plate/happy-return/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-083": {
+      "display": [
+        "/products/ceramic-plate/mordern-city/cover.png",
+        "/products/ceramic-plate/mordern-city/detail-01.png",
+        "/products/ceramic-plate/mordern-city/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/mordern-city/detail-03.png": [
+          "visually similar to /products/ceramic-plate/mordern-city/detail-02.png"
+        ]
+      }
+    },
+    "JOY-CP-084": {
+      "display": [
+        "/products/ceramic-plate/clover-series/cover.png",
+        "/products/ceramic-plate/clover-series/detail-01.png",
+        "/products/ceramic-plate/clover-series/detail-02.png",
+        "/products/ceramic-plate/clover-series/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-085": {
+      "display": [
+        "/products/ceramic-plate/blackgold-mordern/cover.png",
+        "/products/ceramic-plate/blackgold-mordern/detail-01.png",
+        "/products/ceramic-plate/blackgold-mordern/detail-02.png",
+        "/products/ceramic-plate/blackgold-mordern/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-086": {
+      "display": [
+        "/products/ceramic-plate/green-stoneware/cover.png",
+        "/products/ceramic-plate/green-stoneware/detail-01.png",
+        "/products/ceramic-plate/green-stoneware/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-087": {
+      "display": [
+        "/products/ceramic-plate/colorful-rim-stoneware/cover.png",
+        "/products/ceramic-plate/colorful-rim-stoneware/detail-02.png",
+        "/products/ceramic-plate/colorful-rim-stoneware/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/colorful-rim-stoneware/detail-01.png": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-CP-088": {
+      "display": [
+        "/products/ceramic-plate/thread-stoneware/cover.png",
+        "/products/ceramic-plate/thread-stoneware/detail-01.png",
+        "/products/ceramic-plate/thread-stoneware/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-091": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-2/cover.png",
+        "/products/ceramic-plate/ebossed-style-2/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-092": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-3/cover.png",
+        "/products/ceramic-plate/ebossed-style-3/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-3/detail-02.png",
+        "/products/ceramic-plate/ebossed-style-3/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-093": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-4/cover.png",
+        "/products/ceramic-plate/ebossed-style-4/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-4/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-094": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-5/cover.png",
+        "/products/ceramic-plate/ebossed-style-5/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-5/detail-02.png",
+        "/products/ceramic-plate/ebossed-style-5/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-095": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-6/cover.png",
+        "/products/ceramic-plate/ebossed-style-6/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-6/detail-02.png",
+        "/products/ceramic-plate/ebossed-style-6/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-096": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-7/cover.png",
+        "/products/ceramic-plate/ebossed-style-7/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-7/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-097": {
+      "display": [
+        "/products/ceramic-plate/ebossed-style-8/cover.png",
+        "/products/ceramic-plate/ebossed-style-8/detail-01.png",
+        "/products/ceramic-plate/ebossed-style-8/detail-02.png",
+        "/products/ceramic-plate/ebossed-style-8/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-098": {
+      "display": [
+        "/products/ceramic-plate/ink-style/cover.png",
+        "/products/ceramic-plate/ink-style/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-099": {
+      "display": [
+        "/products/ceramic-plate/luxury-wide-rim-style/cover.png",
+        "/products/ceramic-plate/luxury-wide-rim-style/detail-01.png",
+        "/products/ceramic-plate/luxury-wide-rim-style/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-101": {
+      "display": [
+        "/products/ceramic-plate/colorful-leaves/cover.png",
+        "/products/ceramic-plate/colorful-leaves/detail-01.png",
+        "/products/ceramic-plate/colorful-leaves/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-102": {
+      "display": [
+        "/products/ceramic-plate/colorful-blooms/cover.png",
+        "/products/ceramic-plate/colorful-blooms/detail-01.png",
+        "/products/ceramic-plate/colorful-blooms/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-106": {
+      "display": [
+        "/products/ceramic-plate/pineapple-style/cover.png",
+        "/products/ceramic-plate/pineapple-style/detail-01.png",
+        "/products/ceramic-plate/pineapple-style/detail-02.png",
+        "/products/ceramic-plate/pineapple-style/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-107": {
+      "display": [
+        "/products/ceramic-plate/embroidery-flowers/cover.png",
+        "/products/ceramic-plate/embroidery-flowers/detail-01.png",
+        "/products/ceramic-plate/embroidery-flowers/detail-02.png",
+        "/products/ceramic-plate/embroidery-flowers/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-108": {
+      "display": [
+        "/products/ceramic-plate/blue-flower-circle/cover.png",
+        "/products/ceramic-plate/blue-flower-circle/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-109": {
+      "display": [
+        "/products/ceramic-plate/blue-birds/cover.png",
+        "/products/ceramic-plate/blue-birds/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-110": {
+      "display": [
+        "/products/ceramic-plate/purple-quicksand/cover.png",
+        "/products/ceramic-plate/purple-quicksand/detail-01.png",
+        "/products/ceramic-plate/purple-quicksand/detail-02.png",
+        "/products/ceramic-plate/purple-quicksand/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-111": {
+      "display": [
+        "/products/ceramic-plate/nutcracker/cover.png",
+        "/products/ceramic-plate/nutcracker/detail-01.png",
+        "/products/ceramic-plate/nutcracker/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-112": {
+      "display": [
+        "/products/ceramic-plate/fairy-tale-world/cover.png",
+        "/products/ceramic-plate/fairy-tale-world/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-113": {
+      "display": [
+        "/products/ceramic-plate/colorful-fruit/cover.png",
+        "/products/ceramic-plate/colorful-fruit/detail-01.png",
+        "/products/ceramic-plate/colorful-fruit/detail-02.png",
+        "/products/ceramic-plate/colorful-fruit/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-114": {
+      "display": [
+        "/products/ceramic-plate/heaven-birds/cover.png",
+        "/products/ceramic-plate/heaven-birds/detail-01.png",
+        "/products/ceramic-plate/heaven-birds/detail-02.png",
+        "/products/ceramic-plate/heaven-birds/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-115": {
+      "display": [
+        "/products/ceramic-plate/morning-birds/cover.png",
+        "/products/ceramic-plate/morning-birds/detail-01.png",
+        "/products/ceramic-plate/morning-birds/detail-02.png",
+        "/products/ceramic-plate/morning-birds/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-116": {
+      "display": [
+        "/products/ceramic-plate/loved-birds/cover.png",
+        "/products/ceramic-plate/loved-birds/detail-01.png",
+        "/products/ceramic-plate/loved-birds/detail-02.png",
+        "/products/ceramic-plate/loved-birds/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-117": {
+      "display": [
+        "/products/ceramic-plate/colorful-parrot/cover.png",
+        "/products/ceramic-plate/colorful-parrot/detail-01.png",
+        "/products/ceramic-plate/colorful-parrot/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-118": {
+      "display": [
+        "/products/ceramic-plate/fresh-leaves/cover.png",
+        "/products/ceramic-plate/fresh-leaves/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-119": {
+      "display": [
+        "/products/ceramic-plate/pink-leaves/cover.png",
+        "/products/ceramic-plate/pink-leaves/detail-01.png",
+        "/products/ceramic-plate/pink-leaves/detail-02.png",
+        "/products/ceramic-plate/pink-leaves/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-120": {
+      "display": [
+        "/products/ceramic-plate/blue-vintage/cover.png",
+        "/products/ceramic-plate/blue-vintage/detail-01.png",
+        "/products/ceramic-plate/blue-vintage/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-121": {
+      "display": [
+        "/products/ceramic-plate/dark-leaves/cover.png",
+        "/products/ceramic-plate/dark-leaves/detail-01.png",
+        "/products/ceramic-plate/dark-leaves/detail-02.png",
+        "/products/ceramic-plate/dark-leaves/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-122": {
+      "display": [
+        "/products/ceramic-plate/sea-grasses/cover.png",
+        "/products/ceramic-plate/sea-grasses/detail-01.png",
+        "/products/ceramic-plate/sea-grasses/detail-02.png",
+        "/products/ceramic-plate/sea-grasses/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-123": {
+      "display": [
+        "/products/ceramic-plate/tropical-leaves/cover.png",
+        "/products/ceramic-plate/tropical-leaves/detail-01.png",
+        "/products/ceramic-plate/tropical-leaves/detail-02.png",
+        "/products/ceramic-plate/tropical-leaves/detail-03.png",
+        "/products/ceramic-plate/tropical-leaves/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-124": {
+      "display": [
+        "/products/ceramic-plate/dark-colorful-birds/cover.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-125": {
+      "display": [
+        "/products/ceramic-plate/dark-forest/cover.png",
+        "/products/ceramic-plate/dark-forest/detail-01.png",
+        "/products/ceramic-plate/dark-forest/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-126": {
+      "display": [
+        "/products/ceramic-plate/red-vintage/cover.png",
+        "/products/ceramic-plate/red-vintage/detail-01.png",
+        "/products/ceramic-plate/red-vintage/detail-02.png",
+        "/products/ceramic-plate/red-vintage/detail-03.png",
+        "/products/ceramic-plate/red-vintage/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-127": {
+      "display": [
+        "/products/ceramic-plate/chrysanthemum-blossom/cover.png",
+        "/products/ceramic-plate/chrysanthemum-blossom/detail-01.png",
+        "/products/ceramic-plate/chrysanthemum-blossom/detail-02.png",
+        "/products/ceramic-plate/chrysanthemum-blossom/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-128": {
+      "display": [
+        "/products/ceramic-plate/shy-flowers/cover.png",
+        "/products/ceramic-plate/shy-flowers/detail-01.png",
+        "/products/ceramic-plate/shy-flowers/detail-02.png",
+        "/products/ceramic-plate/shy-flowers/detail-03.png",
+        "/products/ceramic-plate/shy-flowers/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-129": {
+      "display": [
+        "/products/ceramic-plate/zebra-series/cover.png",
+        "/products/ceramic-plate/zebra-series/detail-01.png",
+        "/products/ceramic-plate/zebra-series/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-130": {
+      "display": [
+        "/products/ceramic-plate/geometric-pink/cover.png",
+        "/products/ceramic-plate/geometric-pink/detail-01.png",
+        "/products/ceramic-plate/geometric-pink/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-131": {
+      "display": [
+        "/products/ceramic-plate/spray-flower/cover.png",
+        "/products/ceramic-plate/spray-flower/detail-01.png",
+        "/products/ceramic-plate/spray-flower/detail-02.png",
+        "/products/ceramic-plate/spray-flower/detail-03.png",
+        "/products/ceramic-plate/spray-flower/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-132": {
+      "display": [
+        "/products/ceramic-plate/blue-lotus/cover.png",
+        "/products/ceramic-plate/blue-lotus/detail-01.png",
+        "/products/ceramic-plate/blue-lotus/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-133": {
+      "display": [
+        "/products/ceramic-plate/green-forest/cover.png",
+        "/products/ceramic-plate/green-forest/detail-01.png",
+        "/products/ceramic-plate/green-forest/detail-02.png",
+        "/products/ceramic-plate/green-forest/detail-03.png",
+        "/products/ceramic-plate/green-forest/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-134": {
+      "display": [
+        "/products/ceramic-plate/happy-birds/cover.png",
+        "/products/ceramic-plate/happy-birds/detail-01.png",
+        "/products/ceramic-plate/happy-birds/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-135": {
+      "display": [
+        "/products/ceramic-plate/countryside-series/cover.png",
+        "/products/ceramic-plate/countryside-series/detail-01.png",
+        "/products/ceramic-plate/countryside-series/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-137": {
+      "display": [
+        "/products/ceramic-plate/cabbage-style/cover.png",
+        "/products/ceramic-plate/cabbage-style/detail-01.png",
+        "/products/ceramic-plate/cabbage-style/detail-02.png",
+        "/products/ceramic-plate/cabbage-style/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-138": {
+      "display": [
+        "/products/ceramic-plate/stoneware-with-wide-rim/cover.png",
+        "/products/ceramic-plate/stoneware-with-wide-rim/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/stoneware-with-wide-rim/detail-01.png": [
+          "possible cropped product edges"
+        ],
+        "/products/ceramic-plate/stoneware-with-wide-rim/detail-03.png": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-CP-141": {
+      "display": [
+        "/products/ceramic-plate/sunflower-series/cover.png",
+        "/products/ceramic-plate/sunflower-series/detail-01.png",
+        "/products/ceramic-plate/sunflower-series/detail-02.png",
+        "/products/ceramic-plate/sunflower-series/detail-03.png",
+        "/products/ceramic-plate/sunflower-series/detail-04.png",
+        "/products/ceramic-plate/sunflower-series/detail-06.png",
+        "/products/ceramic-plate/sunflower-series/detail-07.png",
+        "/products/ceramic-plate/sunflower-series/detail-08.png",
+        "/products/ceramic-plate/sunflower-series/detail-09.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/sunflower-series/detail-07.png": "/products-display/ceramic-plate/sunflower-series/detail-07.webp"
+      },
+      "excluded": {
+        "/products/ceramic-plate/sunflower-series/detail-05.png": [
+          "visually similar to /products/ceramic-plate/sunflower-series/detail-01.png"
+        ]
+      }
+    },
+    "JOY-CP-142": {
+      "display": [
+        "/products/ceramic-plate/white-embossed/cover.png",
+        "/products/ceramic-plate/white-embossed/detail-01.png",
+        "/products/ceramic-plate/white-embossed/detail-02.png",
+        "/products/ceramic-plate/white-embossed/detail-03.png",
+        "/products/ceramic-plate/white-embossed/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-143": {
+      "display": [
+        "/products/ceramic-plate/embossed-lace-plate/cover.png",
+        "/products/ceramic-plate/embossed-lace-plate/detail-01.png",
+        "/products/ceramic-plate/embossed-lace-plate/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-144": {
+      "display": [
+        "/products/ceramic-plate/stripped-classical/cover.png",
+        "/products/ceramic-plate/stripped-classical/detail-01.png",
+        "/products/ceramic-plate/stripped-classical/detail-02.png",
+        "/products/ceramic-plate/stripped-classical/detail-03.png",
+        "/products/ceramic-plate/stripped-classical/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-145": {
+      "display": [
+        "/products/ceramic-plate/vintage-cherry/cover.png",
+        "/products/ceramic-plate/vintage-cherry/detail-01.png",
+        "/products/ceramic-plate/vintage-cherry/detail-02.png",
+        "/products/ceramic-plate/vintage-cherry/detail-03.png",
+        "/products/ceramic-plate/vintage-cherry/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-149": {
+      "display": [
+        "/products/ceramic-plate/spring-recovery/cover.png",
+        "/products/ceramic-plate/spring-recovery/detail-01.png",
+        "/products/ceramic-plate/spring-recovery/detail-02.png",
+        "/products/ceramic-plate/spring-recovery/detail-03.png",
+        "/products/ceramic-plate/spring-recovery/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-054": {
+      "display": [
+        "/products/ceramic-plate/back-to-classical-stoneware-202301/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202302/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202303/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202304/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202305/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202306/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202307/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202308/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202309/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202310/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202311/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202312/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202313/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202314/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202315/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202316/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202317/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202318/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202319/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202320/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202321/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202322/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202323/cover.png",
+        "/products/ceramic-plate/back-to-classical-stoneware-202324/cover.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-103": {
+      "display": [
+        "/products/ceramic-plate/hermas-style-1/cover.png",
+        "/products/ceramic-plate/hermas-style-1/detail-01.png",
+        "/products/ceramic-plate/hermas-style-2/cover.png",
+        "/products/ceramic-plate/hermas-style-2/detail-01.png",
+        "/products/ceramic-plate/hermas-style-3/cover.png",
+        "/products/ceramic-plate/hermas-style-3/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/hermas-style-1/detail-02.png": [
+          "visually similar to /products/ceramic-plate/hermas-style-1/detail-01.png"
+        ],
+        "/products/ceramic-plate/hermas-style-2/detail-02.png": [
+          "visually similar to /products/ceramic-plate/hermas-style-2/detail-01.png"
+        ]
+      }
+    },
+    "JOY-CP-146": {
+      "display": [
+        "/products/ceramic-plate/vintage-flower-1/cover.png",
+        "/products/ceramic-plate/vintage-flower-1/detail-01.png",
+        "/products/ceramic-plate/vintage-flower-1/detail-02.png",
+        "/products/ceramic-plate/vintage-flower-1/detail-03.png",
+        "/products/ceramic-plate/vintage-flower-2/cover.png",
+        "/products/ceramic-plate/vintage-flower-2/detail-01.png",
+        "/products/ceramic-plate/vintage-flower-2/detail-02.png",
+        "/products/ceramic-plate/vintage-flower-2/detail-03.png",
+        "/products/ceramic-plate/vintage-flower-2/detail-04.png",
+        "/products/ceramic-plate/vintage-flower-3/cover.png",
+        "/products/ceramic-plate/vintage-flower-3/detail-01.png",
+        "/products/ceramic-plate/vintage-flower-3/detail-02.png",
+        "/products/ceramic-plate/vintage-flower-3/detail-03.png",
+        "/products/ceramic-plate/vintage-flower-3/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/vintage-flower-1/detail-04.png": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-CP-150": {
+      "display": [
+        "/products/ceramic-plate/summer-bloom/cover.png",
+        "/products/ceramic-plate/summer-bloom/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/summer-bloom/detail-02.png": [
+          "visually similar to /products/ceramic-plate/summer-bloom/detail-01.png",
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-CP-151": {
+      "display": [
+        "/products/ceramic-plate/autumn-harvest/cover.png",
+        "/products/ceramic-plate/autumn-harvest/detail-01.png",
+        "/products/ceramic-plate/autumn-harvest/detail-02.png",
+        "/products/ceramic-plate/autumn-harvest/detail-03.png",
+        "/products/ceramic-plate/autumn-harvest/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-152": {
+      "display": [
+        "/products/ceramic-plate/fashion-model/cover.png",
+        "/products/ceramic-plate/fashion-model/detail-01.png",
+        "/products/ceramic-plate/fashion-model/detail-02.png",
+        "/products/ceramic-plate/fashion-model/detail-03.png",
+        "/products/ceramic-plate/fashion-model/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-153": {
+      "display": [
+        "/products/ceramic-plate/wreath/cover.png"
+      ],
+      "replacements": {
+        "/products/ceramic-plate/wreath/cover.png": "/products-display/ceramic-plate/wreath/cover.webp"
+      },
+      "excluded": {}
+    },
+    "JOY-CP-154": {
+      "display": [
+        "/products/ceramic-plate/prosperity/cover.png",
+        "/products/ceramic-plate/prosperity/detail-01.png",
+        "/products/ceramic-plate/prosperity/detail-02.png",
+        "/products/ceramic-plate/prosperity/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-155": {
+      "display": [
+        "/products/ceramic-plate/banana-leaf/cover.png",
+        "/products/ceramic-plate/banana-leaf/detail-01.png",
+        "/products/ceramic-plate/banana-leaf/detail-02.png",
+        "/products/ceramic-plate/banana-leaf/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-156": {
+      "display": [
+        "/products/ceramic-plate/blue-stripe/cover.png",
+        "/products/ceramic-plate/blue-stripe/detail-01.png",
+        "/products/ceramic-plate/blue-stripe/detail-02.png",
+        "/products/ceramic-plate/blue-stripe/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-157": {
+      "display": [
+        "/products/ceramic-plate/concrete-grey/cover.png",
+        "/products/ceramic-plate/concrete-grey/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-158": {
+      "display": [
+        "/products/ceramic-plate/hummingbird/cover.png",
+        "/products/ceramic-plate/hummingbird/detail-01.png",
+        "/products/ceramic-plate/hummingbird/detail-02.png",
+        "/products/ceramic-plate/hummingbird/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-159": {
+      "display": [
+        "/products/ceramic-plate/blue-red-qinghua/cover.png",
+        "/products/ceramic-plate/blue-red-qinghua/detail-01.png",
+        "/products/ceramic-plate/blue-red-qinghua/detail-02.png",
+        "/products/ceramic-plate/blue-red-qinghua/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-160": {
+      "display": [
+        "/products/ceramic-plate/blue-grey-lily/cover.png",
+        "/products/ceramic-plate/blue-grey-lily/detail-01.png",
+        "/products/ceramic-plate/blue-grey-lily/detail-02.png",
+        "/products/ceramic-plate/blue-grey-lily/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-161": {
+      "display": [
+        "/products/ceramic-plate/coloured-lotus/cover.png",
+        "/products/ceramic-plate/coloured-lotus/detail-01.png",
+        "/products/ceramic-plate/coloured-lotus/detail-02.png",
+        "/products/ceramic-plate/coloured-lotus/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-162": {
+      "display": [
+        "/products/ceramic-plate/butterfly/cover.png",
+        "/products/ceramic-plate/butterfly/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-163": {
+      "display": [
+        "/products/ceramic-plate/harvest-season/cover.png",
+        "/products/ceramic-plate/harvest-season/detail-01.png",
+        "/products/ceramic-plate/harvest-season/detail-02.png",
+        "/products/ceramic-plate/harvest-season/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-164": {
+      "display": [
+        "/products/ceramic-plate/golden-time/cover.png",
+        "/products/ceramic-plate/golden-time/detail-01.png",
+        "/products/ceramic-plate/golden-time/detail-02.png",
+        "/products/ceramic-plate/golden-time/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-165": {
+      "display": [
+        "/products/ceramic-plate/azure-blue-sea/cover.png",
+        "/products/ceramic-plate/azure-blue-sea/detail-01.png",
+        "/products/ceramic-plate/azure-blue-sea/detail-02.png",
+        "/products/ceramic-plate/azure-blue-sea/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-166": {
+      "display": [
+        "/products/ceramic-plate/willow-leaf/cover.png",
+        "/products/ceramic-plate/willow-leaf/detail-01.png",
+        "/products/ceramic-plate/willow-leaf/detail-02.png",
+        "/products/ceramic-plate/willow-leaf/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-167": {
+      "display": [
+        "/products/ceramic-plate/malachite/cover.png",
+        "/products/ceramic-plate/malachite/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-168": {
+      "display": [
+        "/products/ceramic-plate/emerald/cover.png",
+        "/products/ceramic-plate/emerald/detail-01.png",
+        "/products/ceramic-plate/emerald/detail-02.png",
+        "/products/ceramic-plate/emerald/detail-03.png",
+        "/products/ceramic-plate/emerald/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-169": {
+      "display": [
+        "/products/ceramic-plate/sweet-bean/cover.png",
+        "/products/ceramic-plate/sweet-bean/detail-01.png",
+        "/products/ceramic-plate/sweet-bean/detail-02.png",
+        "/products/ceramic-plate/sweet-bean/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-170": {
+      "display": [
+        "/products/ceramic-plate/simple-gold-platinum-rim/cover.png",
+        "/products/ceramic-plate/simple-gold-platinum-rim/detail-01.png",
+        "/products/ceramic-plate/simple-gold-platinum-rim/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/simple-gold-platinum-rim/detail-02.png": [
+          "visually similar to /products/ceramic-plate/simple-gold-platinum-rim/cover.png"
+        ]
+      }
+    },
+    "JOY-CP-171": {
+      "display": [
+        "/products/ceramic-plate/white-marble/cover.png",
+        "/products/ceramic-plate/white-marble/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-172": {
+      "display": [
+        "/products/ceramic-plate/embossed-gold/cover.png",
+        "/products/ceramic-plate/embossed-gold/detail-01.png",
+        "/products/ceramic-plate/embossed-gold/detail-02.png",
+        "/products/ceramic-plate/embossed-gold/detail-03.png",
+        "/products/ceramic-plate/embossed-gold/detail-04.png",
+        "/products/ceramic-plate/embossed-gold/detail-05.png",
+        "/products/ceramic-plate/embossed-gold/detail-06.png",
+        "/products/ceramic-plate/embossed-gold/detail-07.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-173": {
+      "display": [
+        "/products/ceramic-plate/crossroad/cover.png",
+        "/products/ceramic-plate/crossroad/detail-01.png",
+        "/products/ceramic-plate/crossroad/detail-02.png",
+        "/products/ceramic-plate/crossroad/detail-03.png",
+        "/products/ceramic-plate/crossroad/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-174": {
+      "display": [
+        "/products/ceramic-plate/iron-art/cover.png",
+        "/products/ceramic-plate/iron-art/detail-01.png",
+        "/products/ceramic-plate/iron-art/detail-02.png",
+        "/products/ceramic-plate/iron-art/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-175": {
+      "display": [
+        "/products/ceramic-plate/black-silk/cover.png",
+        "/products/ceramic-plate/black-silk/detail-01.png",
+        "/products/ceramic-plate/black-silk/detail-02.png",
+        "/products/ceramic-plate/black-silk/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-176": {
+      "display": [
+        "/products/ceramic-plate/black-marble/cover.png",
+        "/products/ceramic-plate/black-marble/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-177": {
+      "display": [
+        "/products/ceramic-plate/golden-leaves/cover.png",
+        "/products/ceramic-plate/golden-leaves/detail-01.png",
+        "/products/ceramic-plate/golden-leaves/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-178": {
+      "display": [
+        "/products/ceramic-plate/colorful-cloud/cover.png",
+        "/products/ceramic-plate/colorful-cloud/detail-01.png",
+        "/products/ceramic-plate/colorful-cloud/detail-02.png",
+        "/products/ceramic-plate/colorful-cloud/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-179": {
+      "display": [
+        "/products/ceramic-plate/pink-donuts/cover.png",
+        "/products/ceramic-plate/pink-donuts/detail-01.png",
+        "/products/ceramic-plate/pink-donuts/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/ceramic-plate/pink-donuts/detail-02.png": [
+          "visually similar to /products/ceramic-plate/pink-donuts/detail-01.png"
+        ]
+      }
+    },
+    "JOY-CP-180": {
+      "display": [
+        "/products/ceramic-plate/rainbow/cover.png",
+        "/products/ceramic-plate/rainbow/detail-01.png",
+        "/products/ceramic-plate/rainbow/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-181": {
+      "display": [
+        "/products/ceramic-plate/orange-blossom/cover.png",
+        "/products/ceramic-plate/orange-blossom/detail-01.png",
+        "/products/ceramic-plate/orange-blossom/detail-02.png",
+        "/products/ceramic-plate/orange-blossom/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-182": {
+      "display": [
+        "/products/ceramic-plate/green-blossom/cover.png",
+        "/products/ceramic-plate/green-blossom/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-183": {
+      "display": [
+        "/products/ceramic-plate/paper-cut/cover.png",
+        "/products/ceramic-plate/paper-cut/detail-01.png",
+        "/products/ceramic-plate/paper-cut/detail-02.png",
+        "/products/ceramic-plate/paper-cut/detail-03.png",
+        "/products/ceramic-plate/paper-cut/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-184": {
+      "display": [
+        "/products/ceramic-plate/green-plant-series/cover.png",
+        "/products/ceramic-plate/green-plant-series/detail-01.png",
+        "/products/ceramic-plate/green-plant-series/detail-02.png",
+        "/products/ceramic-plate/green-plant-series/detail-03.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-185": {
+      "display": [
+        "/products/ceramic-plate/blue-galaxy/cover.png",
+        "/products/ceramic-plate/blue-galaxy/detail-01.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-186": {
+      "display": [
+        "/products/ceramic-plate/classic-blue/cover.png",
+        "/products/ceramic-plate/classic-blue/detail-01.png",
+        "/products/ceramic-plate/classic-blue/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-187": {
+      "display": [
+        "/products/ceramic-plate/colorful-marble/cover.png",
+        "/products/ceramic-plate/colorful-marble/detail-01.png",
+        "/products/ceramic-plate/colorful-marble/detail-02.png",
+        "/products/ceramic-plate/colorful-marble/detail-03.png",
+        "/products/ceramic-plate/colorful-marble/detail-04.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CP-188": {
+      "display": [
+        "/products/ceramic-plate/stoneware-set/cover.png",
+        "/products/ceramic-plate/stoneware-set/detail-01.png",
+        "/products/ceramic-plate/stoneware-set/detail-02.png"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-002": {
+      "display": [
+        "/products/glass-plate/abel-gold-rim-glasses/cover.webp",
+        "/products/glass-plate/abel-gold-rim-glasses/detail-01.webp",
+        "/products/glass-plate/abel-gold-rim-glasses/detail-02.webp",
+        "/products/glass-plate/abel-gold-rim-glasses/detail-03.webp",
+        "/products/glass-plate/abel-gold-rim-glasses/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-003": {
+      "display": [
+        "/products/glass-plate/beaded-glass-plate/cover.webp",
+        "/products/glass-plate/beaded-glass-plate/detail-01.webp",
+        "/products/glass-plate/beaded-glass-plate/detail-02.webp",
+        "/products/glass-plate/beaded-glass-plate/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-004": {
+      "display": [
+        "/products/glass-plate/glassical-embossed-series/cover.webp",
+        "/products/glass-plate/glassical-embossed-series/detail-01.webp",
+        "/products/glass-plate/glassical-embossed-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-plate/glassical-embossed-series/detail-03.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GP-005": {
+      "display": [
+        "/products/glass-plate/glassical-rim-series/cover.webp",
+        "/products/glass-plate/glassical-rim-series/detail-01.webp",
+        "/products/glass-plate/glassical-rim-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-006": {
+      "display": [
+        "/products/glass-plate/flower-circle-series/cover.webp",
+        "/products/glass-plate/flower-circle-series/detail-01.webp",
+        "/products/glass-plate/flower-circle-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-007": {
+      "display": [
+        "/products/glass-plate/snow-glass-series/detail-01.webp",
+        "/products/glass-plate/snow-glass-series/detail-02.webp",
+        "/products/glass-plate/snow-glass-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-plate/snow-glass-series/cover.webp": [
+          "visually similar to /products/glass-plate/snow-glass-series/detail-03.webp"
+        ]
+      }
+    },
+    "JOY-GP-008": {
+      "display": [
+        "/products/glass-plate/jagged-glass-series/cover.webp",
+        "/products/glass-plate/jagged-glass-series/detail-01.webp",
+        "/products/glass-plate/jagged-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-009": {
+      "display": [
+        "/products/glass-plate/ella-glass-series/cover.webp",
+        "/products/glass-plate/ella-glass-series/detail-01.webp",
+        "/products/glass-plate/ella-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-010": {
+      "display": [
+        "/products/glass-plate/harper-glass-series/cover.webp",
+        "/products/glass-plate/harper-glass-series/detail-01.webp",
+        "/products/glass-plate/harper-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-011": {
+      "display": [
+        "/products/glass-plate/wide-rim-glass-series/cover.webp",
+        "/products/glass-plate/wide-rim-glass-series/detail-01.webp",
+        "/products/glass-plate/wide-rim-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-012": {
+      "display": [
+        "/products/glass-plate/wind-glass-series/cover.webp",
+        "/products/glass-plate/wind-glass-series/detail-01.webp",
+        "/products/glass-plate/wind-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-013": {
+      "display": [
+        "/products/glass-plate/cloud-glass-series/cover.webp",
+        "/products/glass-plate/cloud-glass-series/detail-01.webp",
+        "/products/glass-plate/cloud-glass-series/detail-02.webp",
+        "/products/glass-plate/cloud-glass-series/detail-03.webp",
+        "/products/glass-plate/cloud-glass-series/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-014": {
+      "display": [
+        "/products/glass-plate/cloth-pattern-glass/cover.webp",
+        "/products/glass-plate/cloth-pattern-glass/detail-01.webp",
+        "/products/glass-plate/cloth-pattern-glass/detail-02.webp",
+        "/products/glass-plate/cloth-pattern-glass/detail-03.webp",
+        "/products/glass-plate/cloth-pattern-glass/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-015": {
+      "display": [
+        "/products/glass-plate/boom-pattern-glass/cover.webp",
+        "/products/glass-plate/boom-pattern-glass/detail-01.webp",
+        "/products/glass-plate/boom-pattern-glass/detail-02.webp",
+        "/products/glass-plate/boom-pattern-glass/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-016": {
+      "display": [
+        "/products/glass-plate/circle-pattern-glass/cover.webp",
+        "/products/glass-plate/circle-pattern-glass/detail-01.webp",
+        "/products/glass-plate/circle-pattern-glass/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-017": {
+      "display": [
+        "/products/glass-plate/geometry-pattern-glass/cover.webp",
+        "/products/glass-plate/geometry-pattern-glass/detail-01.webp",
+        "/products/glass-plate/geometry-pattern-glass/detail-02.webp",
+        "/products/glass-plate/geometry-pattern-glass/detail-03.webp",
+        "/products/glass-plate/geometry-pattern-glass/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GP-018": {
+      "display": [
+        "/products/glass-plate/flower-pattern-glass/cover.webp",
+        "/products/glass-plate/flower-pattern-glass/detail-01.webp",
+        "/products/glass-plate/flower-pattern-glass/detail-02.webp",
+        "/products/glass-plate/flower-pattern-glass/detail-03.webp",
+        "/products/glass-plate/flower-pattern-glass/detail-04.webp",
+        "/products/glass-plate/flower-pattern-glass/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-003": {
+      "display": [
+        "/products/glass-cup/nightfall/cover.webp",
+        "/products/glass-cup/nightfall/detail-01.webp",
+        "/products/glass-cup/nightfall/detail-02.webp",
+        "/products/glass-cup/nightfall/detail-03.webp",
+        "/products/glass-cup/nightfall/detail-04.webp",
+        "/products/glass-cup/nightfall/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-004": {
+      "display": [
+        "/products/glass-cup/moonlight-glaze/cover.webp",
+        "/products/glass-cup/moonlight-glaze/detail-01.webp",
+        "/products/glass-cup/moonlight-glaze/detail-02.webp",
+        "/products/glass-cup/moonlight-glaze/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-005": {
+      "display": [
+        "/products/glass-cup/pearl-luster/cover.webp",
+        "/products/glass-cup/pearl-luster/detail-01.webp",
+        "/products/glass-cup/pearl-luster/detail-02.webp",
+        "/products/glass-cup/pearl-luster/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-006": {
+      "display": [
+        "/products/glass-cup/emerald-dream/cover.webp",
+        "/products/glass-cup/emerald-dream/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-007": {
+      "display": [
+        "/products/glass-cup/midnight-phantom/cover.webp",
+        "/products/glass-cup/midnight-phantom/detail-01.webp",
+        "/products/glass-cup/midnight-phantom/detail-02.webp",
+        "/products/glass-cup/midnight-phantom/detail-03.webp",
+        "/products/glass-cup/midnight-phantom/detail-04.webp",
+        "/products/glass-cup/midnight-phantom/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-008": {
+      "display": [
+        "/products/glass-cup/crystal-dream/cover.webp",
+        "/products/glass-cup/crystal-dream/detail-01.webp",
+        "/products/glass-cup/crystal-dream/detail-02.webp",
+        "/products/glass-cup/crystal-dream/detail-03.webp",
+        "/products/glass-cup/crystal-dream/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-009": {
+      "display": [
+        "/products/glass-cup/swan-velvet-night/cover.webp",
+        "/products/glass-cup/swan-velvet-night/detail-01.webp",
+        "/products/glass-cup/swan-velvet-night/detail-02.webp",
+        "/products/glass-cup/swan-velvet-night/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-010": {
+      "display": [
+        "/products/glass-cup/amber-glow/cover.webp",
+        "/products/glass-cup/amber-glow/detail-01.webp",
+        "/products/glass-cup/amber-glow/detail-02.webp",
+        "/products/glass-cup/amber-glow/detail-03.webp",
+        "/products/glass-cup/amber-glow/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/amber-glow/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-011": {
+      "display": [
+        "/products/glass-cup/golden-sunshine/cover.webp",
+        "/products/glass-cup/golden-sunshine/detail-01.webp",
+        "/products/glass-cup/golden-sunshine/detail-02.webp",
+        "/products/glass-cup/golden-sunshine/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-012": {
+      "display": [
+        "/products/glass-cup/eye-of-the-wave/cover.webp",
+        "/products/glass-cup/eye-of-the-wave/detail-01.webp",
+        "/products/glass-cup/eye-of-the-wave/detail-02.webp",
+        "/products/glass-cup/eye-of-the-wave/detail-03.webp",
+        "/products/glass-cup/eye-of-the-wave/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-013": {
+      "display": [
+        "/products/glass-cup/rippling-waves/cover.webp",
+        "/products/glass-cup/rippling-waves/detail-01.webp",
+        "/products/glass-cup/rippling-waves/detail-02.webp",
+        "/products/glass-cup/rippling-waves/detail-03.webp",
+        "/products/glass-cup/rippling-waves/detail-04.webp",
+        "/products/glass-cup/rippling-waves/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-014": {
+      "display": [
+        "/products/glass-cup/morning-kiss/cover.webp",
+        "/products/glass-cup/morning-kiss/detail-01.webp",
+        "/products/glass-cup/morning-kiss/detail-02.webp",
+        "/products/glass-cup/morning-kiss/detail-03.webp",
+        "/products/glass-cup/morning-kiss/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-015": {
+      "display": [
+        "/products/glass-cup/purple-haze-fairy/cover.webp",
+        "/products/glass-cup/purple-haze-fairy/detail-01.webp",
+        "/products/glass-cup/purple-haze-fairy/detail-02.webp",
+        "/products/glass-cup/purple-haze-fairy/detail-03.webp",
+        "/products/glass-cup/purple-haze-fairy/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-016": {
+      "display": [
+        "/products/glass-cup/emerald-lake/cover.webp",
+        "/products/glass-cup/emerald-lake/detail-01.webp",
+        "/products/glass-cup/emerald-lake/detail-02.webp",
+        "/products/glass-cup/emerald-lake/detail-03.webp",
+        "/products/glass-cup/emerald-lake/detail-04.webp",
+        "/products/glass-cup/emerald-lake/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-017": {
+      "display": [
+        "/products/glass-cup/starry-night/cover.webp",
+        "/products/glass-cup/starry-night/detail-01.webp",
+        "/products/glass-cup/starry-night/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-018": {
+      "display": [
+        "/products/glass-cup/abyssal-enigma/cover.webp",
+        "/products/glass-cup/abyssal-enigma/detail-01.webp",
+        "/products/glass-cup/abyssal-enigma/detail-02.webp",
+        "/products/glass-cup/abyssal-enigma/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-019": {
+      "display": [
+        "/products/glass-cup/starfish-wish/cover.webp",
+        "/products/glass-cup/starfish-wish/detail-01.webp",
+        "/products/glass-cup/starfish-wish/detail-02.webp",
+        "/products/glass-cup/starfish-wish/detail-03.webp",
+        "/products/glass-cup/starfish-wish/detail-04.webp",
+        "/products/glass-cup/starfish-wish/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-020": {
+      "display": [
+        "/products/glass-cup/bloom-glass-series/cover.webp",
+        "/products/glass-cup/bloom-glass-series/detail-01.webp",
+        "/products/glass-cup/bloom-glass-series/detail-02.webp",
+        "/products/glass-cup/bloom-glass-series/detail-03.webp",
+        "/products/glass-cup/bloom-glass-series/detail-04.webp",
+        "/products/glass-cup/bloom-glass-series/detail-05.webp",
+        "/products/glass-cup/bloom-glass-series/detail-06.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-021": {
+      "display": [
+        "/products/glass-cup/riverside-glass/cover.webp",
+        "/products/glass-cup/riverside-glass/detail-01.webp",
+        "/products/glass-cup/riverside-glass/detail-02.webp",
+        "/products/glass-cup/riverside-glass/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/riverside-glass/detail-03.webp": [
+          "visually similar to /products/glass-cup/riverside-glass/detail-02.webp"
+        ],
+        "/products/glass-cup/riverside-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-022": {
+      "display": [
+        "/products/glass-cup/colorful-ribbed-series/cover.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-01.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-02.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-03.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-04.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-05.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-06.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-07.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-08.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-09.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-10.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-11.webp",
+        "/products/glass-cup/colorful-ribbed-series/detail-12.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-023": {
+      "display": [
+        "/products/glass-cup/aurora-glass/cover.webp",
+        "/products/glass-cup/aurora-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/aurora-glass/detail-02.webp": [
+          "visually similar to /products/glass-cup/aurora-glass/detail-01.webp"
+        ],
+        "/products/glass-cup/aurora-glass/detail-03.webp": [
+          "visually similar to /products/glass-cup/aurora-glass/detail-01.webp"
+        ]
+      }
+    },
+    "JOY-GC-024": {
+      "display": [
+        "/products/glass-cup/engraving-leaves-glass/cover.webp",
+        "/products/glass-cup/engraving-leaves-glass/detail-01.webp",
+        "/products/glass-cup/engraving-leaves-glass/detail-02.webp",
+        "/products/glass-cup/engraving-leaves-glass/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/engraving-leaves-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-025": {
+      "display": [
+        "/products/glass-cup/engraving-flowers-glass/cover.webp",
+        "/products/glass-cup/engraving-flowers-glass/detail-01.webp",
+        "/products/glass-cup/engraving-flowers-glass/detail-02.webp",
+        "/products/glass-cup/engraving-flowers-glass/detail-03.webp",
+        "/products/glass-cup/engraving-flowers-glass/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-026": {
+      "display": [
+        "/products/glass-cup/mixed-glass/cover.webp",
+        "/products/glass-cup/mixed-glass/detail-01.webp",
+        "/products/glass-cup/mixed-glass/detail-02.webp",
+        "/products/glass-cup/mixed-glass/detail-03.webp"
+      ],
+      "replacements": {
+        "/products/glass-cup/mixed-glass/detail-03.webp": "/products-display/glass-cup/mixed-glass/detail-03.webp"
+      },
+      "excluded": {
+        "/products/glass-cup/mixed-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-027": {
+      "display": [
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/cover.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-01.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-02.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-03.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-04.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-05.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-06.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-07.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-08.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-09.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-10.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230808/detail-11.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-028": {
+      "display": [
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/cover.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-01.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-03.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-04.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-05.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-06.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-07.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-08.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-09.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-10.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/catalogue-item-joy-gc-20230809/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-GC-029": {
+      "display": [
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/cover.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-01.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-02.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-03.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-04.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-05.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-06.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-07.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-08.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-09.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-10.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230810/detail-11.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-030": {
+      "display": [
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/cover.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-01.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-02.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-03.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-04.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-05.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-06.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-07.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-08.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-09.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-10.webp",
+        "/products/glass-cup/catalogue-item-joy-gc-20230811/detail-11.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-031": {
+      "display": [
+        "/products/glass-cup/mary-glass-series/cover.webp",
+        "/products/glass-cup/mary-glass-series/detail-01.webp",
+        "/products/glass-cup/mary-glass-series/detail-02.webp",
+        "/products/glass-cup/mary-glass-series/detail-03.webp",
+        "/products/glass-cup/mary-glass-series/detail-05.webp",
+        "/products/glass-cup/mary-glass-series/detail-06.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/mary-glass-series/detail-04.webp": [
+          "visually similar to /products/glass-cup/mary-glass-series/detail-03.webp"
+        ]
+      }
+    },
+    "JOY-GC-032": {
+      "display": [
+        "/products/glass-cup/ribbed-glass/cover.webp",
+        "/products/glass-cup/ribbed-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/ribbed-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/ribbed-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/ribbed-glass/detail-04.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/ribbed-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-033": {
+      "display": [
+        "/products/glass-cup/thread-glass/cover.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/thread-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/thread-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/thread-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/thread-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-034": {
+      "display": [
+        "/products/glass-cup/fishtail-glass/cover.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/fishtail-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/fishtail-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/fishtail-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/fishtail-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-035": {
+      "display": [
+        "/products/glass-cup/pleats-glass/cover.webp",
+        "/products/glass-cup/pleats-glass/detail-01.webp",
+        "/products/glass-cup/pleats-glass/detail-02.webp",
+        "/products/glass-cup/pleats-glass/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/pleats-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-036": {
+      "display": [
+        "/products/glass-cup/crystal-yuki-glass/cover.webp",
+        "/products/glass-cup/crystal-yuki-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/crystal-yuki-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-yuki-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-yuki-glass/detail-04.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-yuki-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-037": {
+      "display": [
+        "/products/glass-cup/crystal-jim-glass/cover.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/crystal-jim-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-jim-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-jim-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/crystal-jim-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-038": {
+      "display": [
+        "/products/glass-cup/hepburn-glass/cover.webp",
+        "/products/glass-cup/hepburn-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/hepburn-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/hepburn-glass/detail-03.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-039": {
+      "display": [
+        "/products/glass-cup/tulip-glass/cover.webp",
+        "/products/glass-cup/tulip-glass/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/tulip-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/tulip-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/tulip-glass/detail-04.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-040": {
+      "display": [
+        "/products/glass-cup/horn-glass/cover.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/horn-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/horn-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/horn-glass/detail-03.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-041": {
+      "display": [
+        "/products/glass-cup/kongling-series/cover.webp",
+        "/products/glass-cup/kongling-series/detail-01.webp",
+        "/products/glass-cup/kongling-series/detail-02.webp",
+        "/products/glass-cup/kongling-series/detail-03.webp",
+        "/products/glass-cup/kongling-series/detail-04.webp",
+        "/products/glass-cup/kongling-series/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/kongling-series/detail-06.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/kongling-series/detail-07.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-042": {
+      "display": [
+        "/products/glass-cup/bella-gold-rim-glasses/cover.webp",
+        "/products/glass-cup/bella-gold-rim-glasses/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-043": {
+      "display": [
+        "/products/glass-cup/graceful-glass/cover.webp",
+        "/products/glass-cup/graceful-glass/detail-01.webp",
+        "/products/glass-cup/graceful-glass/detail-03.webp",
+        "/products/glass-cup/graceful-glass/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/graceful-glass/detail-02.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-GC-044": {
+      "display": [
+        "/products/glass-cup/anne-glass-series/cover.webp",
+        "/products/glass-cup/anne-glass-series/detail-01.webp",
+        "/products/glass-cup/anne-glass-series/detail-02.webp",
+        "/products/glass-cup/anne-glass-series/detail-03.webp",
+        "/products/glass-cup/anne-glass-series/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-045": {
+      "display": [
+        "/products/glass-cup/ella-glass/cover.webp",
+        "/products/glass-cup/ella-glass/detail-01.webp",
+        "/products/glass-cup/ella-glass/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/ella-glass/detail-03.webp": [
+          "visually similar to /products/glass-cup/ella-glass/detail-02.webp",
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-046": {
+      "display": [
+        "/products/glass-cup/harper-glass/cover.webp",
+        "/products/glass-cup/harper-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/harper-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/harper-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/harper-glass/detail-04.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/harper-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-047": {
+      "display": [
+        "/products/glass-cup/hayley-glass/cover.webp",
+        "/products/glass-cup/hayley-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/hayley-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/hayley-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/hayley-glass/detail-04.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/hayley-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-048": {
+      "display": [
+        "/products/glass-cup/susan-glass/cover.webp",
+        "/products/glass-cup/susan-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/susan-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/susan-glass/detail-03.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/susan-glass/detail-04.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/susan-glass/detail-05.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-049": {
+      "display": [
+        "/products/glass-cup/mia-glass-series/cover.webp",
+        "/products/glass-cup/mia-glass-series/detail-01.webp",
+        "/products/glass-cup/mia-glass-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-050": {
+      "display": [
+        "/products/glass-cup/riley-glass/cover.webp",
+        "/products/glass-cup/riley-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/riley-glass/detail-02.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-051": {
+      "display": [
+        "/products/glass-cup/chloe-glass/cover.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/chloe-glass/detail-01.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/chloe-glass/detail-02.webp": [
+          "low resolution"
+        ],
+        "/products/glass-cup/chloe-glass/detail-03.webp": [
+          "low resolution"
+        ]
+      }
+    },
+    "JOY-GC-052": {
+      "display": [
+        "/products/glass-cup/diamond-glass/cover.webp",
+        "/products/glass-cup/diamond-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-053": {
+      "display": [
+        "/products/glass-cup/luna-glass/cover.webp",
+        "/products/glass-cup/luna-glass/detail-01.webp",
+        "/products/glass-cup/luna-glass/detail-02.webp",
+        "/products/glass-cup/luna-glass/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-054": {
+      "display": [
+        "/products/glass-cup/flower-colorful-glass/cover.webp",
+        "/products/glass-cup/flower-colorful-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-055": {
+      "display": [
+        "/products/glass-cup/small-diamond-glass/cover.webp",
+        "/products/glass-cup/small-diamond-glass/detail-01.webp",
+        "/products/glass-cup/middle-diamond-glass/cover.webp",
+        "/products/glass-cup/big-diamond-glass/cover.webp",
+        "/products/glass-cup/big-diamond-glass/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {
+        "/products/glass-cup/middle-diamond-glass/detail-01.webp": [
+          "possible cropped product edges"
+        ]
+      }
+    },
+    "JOY-GC-058": {
+      "display": [
+        "/products/glass-cup/snowflake-glasses/cover.webp",
+        "/products/glass-cup/snowflake-glasses/detail-01.webp",
+        "/products/glass-cup/snowflake-glasses/detail-02.webp",
+        "/products/glass-cup/snowflake-glasses/detail-03.webp",
+        "/products/glass-cup/snowflake-glasses/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-GC-059": {
+      "display": [
+        "/products/glass-cup/raindrop-glasses/cover.webp",
+        "/products/glass-cup/raindrop-glasses/detail-01.webp",
+        "/products/glass-cup/raindrop-glasses/detail-02.webp",
+        "/products/glass-cup/raindrop-glasses/detail-03.webp",
+        "/products/glass-cup/raindrop-glasses/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-002": {
+      "display": [
+        "/products/cutlery/forest-craft-series/cover.webp",
+        "/products/cutlery/forest-craft-series/detail-01.webp",
+        "/products/cutlery/forest-craft-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-003": {
+      "display": [
+        "/products/cutlery/retro-style-series/cover.webp",
+        "/products/cutlery/retro-style-series/detail-01.webp",
+        "/products/cutlery/retro-style-series/detail-02.webp",
+        "/products/cutlery/retro-style-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-004": {
+      "display": [
+        "/products/cutlery/water-droplets-series/cover.webp",
+        "/products/cutlery/water-droplets-series/detail-01.webp",
+        "/products/cutlery/water-droplets-series/detail-02.webp",
+        "/products/cutlery/water-droplets-series/detail-03.webp",
+        "/products/cutlery/water-droplets-series/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-005": {
+      "display": [
+        "/products/cutlery/old-money-series/cover.webp",
+        "/products/cutlery/old-money-series/detail-01.webp",
+        "/products/cutlery/old-money-series/detail-02.webp",
+        "/products/cutlery/old-money-series/detail-03.webp",
+        "/products/cutlery/old-money-series/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-006": {
+      "display": [
+        "/products/cutlery/twist-series/cover.webp",
+        "/products/cutlery/twist-series/detail-01.webp",
+        "/products/cutlery/twist-series/detail-02.webp",
+        "/products/cutlery/twist-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-007": {
+      "display": [
+        "/products/cutlery/noble-series/cover.webp",
+        "/products/cutlery/noble-series/detail-01.webp",
+        "/products/cutlery/noble-series/detail-02.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-008": {
+      "display": [
+        "/products/cutlery/nut-series/cover.webp",
+        "/products/cutlery/nut-series/detail-01.webp",
+        "/products/cutlery/nut-series/detail-02.webp",
+        "/products/cutlery/nut-series/detail-03.webp",
+        "/products/cutlery/nut-series/detail-04.webp",
+        "/products/cutlery/nut-series/detail-05.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-009": {
+      "display": [
+        "/products/cutlery/roma-series/cover.webp",
+        "/products/cutlery/roma-series/detail-01.webp",
+        "/products/cutlery/roma-series/detail-02.webp",
+        "/products/cutlery/roma-series/detail-03.webp",
+        "/products/cutlery/roma-series/detail-04.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-010": {
+      "display": [
+        "/products/cutlery/rotary-series/cover.webp",
+        "/products/cutlery/rotary-series/detail-01.webp",
+        "/products/cutlery/rotary-series/detail-02.webp",
+        "/products/cutlery/rotary-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-011": {
+      "display": [
+        "/products/cutlery/coconut-series/cover.webp",
+        "/products/cutlery/coconut-series/detail-01.webp",
+        "/products/cutlery/coconut-series/detail-02.webp",
+        "/products/cutlery/coconut-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-012": {
+      "display": [
+        "/products/cutlery/magic-series/cover.webp",
+        "/products/cutlery/magic-series/detail-01.webp",
+        "/products/cutlery/magic-series/detail-02.webp",
+        "/products/cutlery/magic-series/detail-03.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-013": {
+      "display": [
+        "/products/cutlery/diamond-series/cover.webp",
+        "/products/cutlery/diamond-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-014": {
+      "display": [
+        "/products/cutlery/serveware-series/cover.webp",
+        "/products/cutlery/serveware-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-015": {
+      "display": [
+        "/products/cutlery/bamboo-series/cover.webp",
+        "/products/cutlery/bamboo-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-016": {
+      "display": [
+        "/products/cutlery/shell-series/cover.webp",
+        "/products/cutlery/shell-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-017": {
+      "display": [
+        "/products/cutlery/hermas-series/cover.webp",
+        "/products/cutlery/hermas-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-018": {
+      "display": [
+        "/products/cutlery/babylon-series/cover.webp",
+        "/products/cutlery/babylon-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-019": {
+      "display": [
+        "/products/cutlery/palace2-series/cover.webp",
+        "/products/cutlery/palace2-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-020": {
+      "display": [
+        "/products/cutlery/embossed-series/cover.webp",
+        "/products/cutlery/embossed-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-021": {
+      "display": [
+        "/products/cutlery/hotel-series-202110/cover.webp",
+        "/products/cutlery/hotel-series-202110/detail-01.webp",
+        "/products/cutlery/hotel-series-202111/cover.webp",
+        "/products/cutlery/hotel-series-202111/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-023": {
+      "display": [
+        "/products/cutlery/twilight-series/cover.webp",
+        "/products/cutlery/twilight-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-024": {
+      "display": [
+        "/products/cutlery/vintage-series/cover.webp",
+        "/products/cutlery/vintage-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-025": {
+      "display": [
+        "/products/cutlery/wanting-series/cover.webp",
+        "/products/cutlery/wanting-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-026": {
+      "display": [
+        "/products/cutlery/anne-series/cover.webp",
+        "/products/cutlery/anne-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-027": {
+      "display": [
+        "/products/cutlery/yatin-series/cover.webp",
+        "/products/cutlery/yatin-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-028": {
+      "display": [
+        "/products/cutlery/tower-series/cover.webp",
+        "/products/cutlery/tower-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-029": {
+      "display": [
+        "/products/cutlery/qinglong-series/cover.webp",
+        "/products/cutlery/qinglong-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-030": {
+      "display": [
+        "/products/cutlery/royal-series/cover.webp",
+        "/products/cutlery/royal-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-031": {
+      "display": [
+        "/products/cutlery/england-series/cover.webp",
+        "/products/cutlery/england-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-032": {
+      "display": [
+        "/products/cutlery/simon-series/cover.webp",
+        "/products/cutlery/simon-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-033": {
+      "display": [
+        "/products/cutlery/wheat-series/cover.webp",
+        "/products/cutlery/wheat-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-034": {
+      "display": [
+        "/products/cutlery/angela-series/cover.webp",
+        "/products/cutlery/angela-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-035": {
+      "display": [
+        "/products/cutlery/sd-11-series/cover.webp",
+        "/products/cutlery/sd-11-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-036": {
+      "display": [
+        "/products/cutlery/new-moon-series/cover.webp",
+        "/products/cutlery/new-moon-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-037": {
+      "display": [
+        "/products/cutlery/loulan-series/cover.webp",
+        "/products/cutlery/loulan-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    },
+    "JOY-CU-038": {
+      "display": [
+        "/products/cutlery/mc-series/cover.webp",
+        "/products/cutlery/mc-series/detail-01.webp"
+      ],
+      "replacements": {},
+      "excluded": {}
+    }
+  }
+}
